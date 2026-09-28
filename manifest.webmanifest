@@ -1,0 +1,12 @@
+{
+  "name": "Gridiron Scoreboard",
+  "short_name": "Gridiron",
+  "description": "Live NFL and college football scores with Top 25 and conference filters.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": [
+    { "src": "assets/img/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

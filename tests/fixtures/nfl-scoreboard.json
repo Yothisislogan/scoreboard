@@ -1,0 +1,4074 @@
+{
+ "leagues": [
+  {
+   "id": "28",
+   "uid": "s:20~l:28",
+   "name": "National Football League",
+   "abbreviation": "NFL",
+   "slug": "nfl",
+   "season": {
+    "year": 2026,
+    "startDate": "2026-08-01T07:00Z",
+    "endDate": "2027-02-17T07:59Z",
+    "displayName": "2026",
+    "type": {
+     "id": "2",
+     "type": 2,
+     "name": "Regular Season",
+     "abbreviation": "reg"
+    }
+   },
+   "logos": [],
+   "calendarType": "list",
+   "calendarIsWhitelist": true,
+   "calendarStartDate": "2026-08-01T07:00Z",
+   "calendarEndDate": "2027-02-17T07:59Z",
+   "calendar": [
+    {
+     "label": "Preseason",
+     "value": "1",
+     "startDate": "2026-08-05T07:00Z",
+     "endDate": "2026-09-02T06:59Z",
+     "entries": [
+      {
+       "label": "Hall of Fame Weekend",
+       "alternateLabel": "HOF",
+       "detail": "Aug 5-Aug 11",
+       "value": "1",
+       "startDate": "2026-08-05T07:00Z",
+       "endDate": "2026-08-12T06:59Z"
+      },
+      {
+       "label": "Preseason Week 1",
+       "alternateLabel": "Pre Wk 1",
+       "detail": "Aug 12-Aug 18",
+       "value": "2",
+       "startDate": "2026-08-12T07:00Z",
+       "endDate": "2026-08-19T06:59Z"
+      },
+      {
+       "label": "Preseason Week 2",
+       "alternateLabel": "Pre Wk 2",
+       "detail": "Aug 19-Aug 25",
+       "value": "3",
+       "startDate": "2026-08-19T07:00Z",
+       "endDate": "2026-08-26T06:59Z"
+      },
+      {
+       "label": "Preseason Week 3",
+       "alternateLabel": "Pre Wk 3",
+       "detail": "Aug 26-Sep 1",
+       "value": "4",
+       "startDate": "2026-08-26T07:00Z",
+       "endDate": "2026-09-02T06:59Z"
+      }
+     ]
+    },
+    {
+     "label": "Regular Season",
+     "value": "2",
+     "startDate": "2026-09-09T07:00Z",
+     "endDate": "2027-01-13T06:59Z",
+     "entries": [
+      {
+       "label": "Week 1",
+       "alternateLabel": "Wk 1",
+       "detail": "Sep 9-Sep 15",
+       "value": "1",
+       "startDate": "2026-09-09T07:00Z",
+       "endDate": "2026-09-16T06:59Z"
+      },
+      {
+       "label": "Week 2",
+       "alternateLabel": "Wk 2",
+       "detail": "Sep 16-Sep 22",
+       "value": "2",
+       "startDate": "2026-09-16T07:00Z",
+       "endDate": "2026-09-23T06:59Z"
+      },
+      {
+       "label": "Week 3",
+       "alternateLabel": "Wk 3",
+       "detail": "Sep 23-Sep 29",
+       "value": "3",
+       "startDate": "2026-09-23T07:00Z",
+       "endDate": "2026-09-30T06:59Z"
+      },
+      {
+       "label": "Week 4",
+       "alternateLabel": "Wk 4",
+       "detail": "Sep 30-Oct 6",
+       "value": "4",
+       "startDate": "2026-09-30T07:00Z",
+       "endDate": "2026-10-07T06:59Z"
+      },
+      {
+       "label": "Week 5",
+       "alternateLabel": "Wk 5",
+       "detail": "Oct 7-Oct 13",
+       "value": "5",
+       "startDate": "2026-10-07T07:00Z",
+       "endDate": "2026-10-14T06:59Z"
+      },
+      {
+       "label": "Week 6",
+       "alternateLabel": "Wk 6",
+       "detail": "Oct 14-Oct 20",
+       "value": "6",
+       "startDate": "2026-10-14T07:00Z",
+       "endDate": "2026-10-21T06:59Z"
+      },
+      {
+       "label": "Week 7",
+       "alternateLabel": "Wk 7",
+       "detail": "Oct 21-Oct 27",
+       "value": "7",
+       "startDate": "2026-10-21T07:00Z",
+       "endDate": "2026-10-28T06:59Z"
+      },
+      {
+       "label": "Week 8",
+       "alternateLabel": "Wk 8",
+       "detail": "Oct 28-Nov 3",
+       "value": "8",
+       "startDate": "2026-10-28T07:00Z",
+       "endDate": "2026-11-04T06:59Z"
+      },
+      {
+       "label": "Week 9",
+       "alternateLabel": "Wk 9",
+       "detail": "Nov 4-Nov 10",
+       "value": "9",
+       "startDate": "2026-11-04T07:00Z",
+       "endDate": "2026-11-11T06:59Z"
+      },
+      {
+       "label": "Week 10",
+       "alternateLabel": "Wk 10",
+       "detail": "Nov 11-Nov 17",
+       "value": "10",
+       "startDate": "2026-11-11T07:00Z",
+       "endDate": "2026-11-18T06:59Z"
+      },
+      {
+       "label": "Week 11",
+       "alternateLabel": "Wk 11",
+       "detail": "Nov 18-Nov 24",
+       "value": "11",
+       "startDate": "2026-11-18T07:00Z",
+       "endDate": "2026-11-25T06:59Z"
+      },
+      {
+       "label": "Week 12",
+       "alternateLabel": "Wk 12",
+       "detail": "Nov 25-Dec 1",
+       "value": "12",
+       "startDate": "2026-11-25T07:00Z",
+       "endDate": "2026-12-02T06:59Z"
+      },
+      {
+       "label": "Week 13",
+       "alternateLabel": "Wk 13",
+       "detail": "Dec 2-Dec 8",
+       "value": "13",
+       "startDate": "2026-12-02T07:00Z",
+       "endDate": "2026-12-09T06:59Z"
+      },
+      {
+       "label": "Week 14",
+       "alternateLabel": "Wk 14",
+       "detail": "Dec 9-Dec 15",
+       "value": "14",
+       "startDate": "2026-12-09T07:00Z",
+       "endDate": "2026-12-16T06:59Z"
+      },
+      {
+       "label": "Week 15",
+       "alternateLabel": "Wk 15",
+       "detail": "Dec 16-Dec 22",
+       "value": "15",
+       "startDate": "2026-12-16T07:00Z",
+       "endDate": "2026-12-23T06:59Z"
+      },
+      {
+       "label": "Week 16",
+       "alternateLabel": "Wk 16",
+       "detail": "Dec 23-Dec 29",
+       "value": "16",
+       "startDate": "2026-12-23T07:00Z",
+       "endDate": "2026-12-30T06:59Z"
+      },
+      {
+       "label": "Week 17",
+       "alternateLabel": "Wk 17",
+       "detail": "Dec 30-Jan 5",
+       "value": "17",
+       "startDate": "2026-12-30T07:00Z",
+       "endDate": "2027-01-06T06:59Z"
+      },
+      {
+       "label": "Week 18",
+       "alternateLabel": "Wk 18",
+       "detail": "Jan 6-Jan 12",
+       "value": "18",
+       "startDate": "2027-01-06T07:00Z",
+       "endDate": "2027-01-13T06:59Z"
+      }
+     ]
+    },
+    {
+     "label": "Postseason",
+     "value": "3",
+     "startDate": "2027-01-13T08:00Z",
+     "endDate": "2027-02-17T07:59Z",
+     "entries": [
+      {
+       "label": "Wild Card Round",
+       "alternateLabel": "Wild Card",
+       "detail": "Jan 13-Jan 20",
+       "value": "1",
+       "startDate": "2027-01-13T08:00Z",
+       "endDate": "2027-01-20T07:59Z"
+      },
+      {
+       "label": "Divisional Round",
+       "alternateLabel": "Divisional",
+       "detail": "Jan 20-Jan 27",
+       "value": "2",
+       "startDate": "2027-01-20T08:00Z",
+       "endDate": "2027-01-27T07:59Z"
+      },
+      {
+       "label": "Conference Championship",
+       "alternateLabel": "Conf Champ",
+       "detail": "Jan 27-Feb 3",
+       "value": "3",
+       "startDate": "2027-01-27T08:00Z",
+       "endDate": "2027-02-03T07:59Z"
+      },
+      {
+       "label": "Pro Bowl",
+       "alternateLabel": "Pro Bowl",
+       "detail": "Feb 3-Feb 10",
+       "value": "4",
+       "startDate": "2027-02-03T08:00Z",
+       "endDate": "2027-02-10T07:59Z"
+      },
+      {
+       "label": "Super Bowl",
+       "alternateLabel": "Super Bowl",
+       "detail": "Feb 10-Feb 17",
+       "value": "5",
+       "startDate": "2027-02-10T08:00Z",
+       "endDate": "2027-02-17T07:59Z"
+      }
+     ]
+    },
+    {
+     "label": "Off Season",
+     "value": "4",
+     "startDate": "2027-02-17T08:00Z",
+     "endDate": "2027-08-04T06:59Z",
+     "entries": [
+      {
+       "label": "Off Season",
+       "alternateLabel": "Off",
+       "detail": "Feb 17-Aug 4",
+       "value": "1",
+       "startDate": "2027-02-17T08:00Z",
+       "endDate": "2027-08-04T06:59Z"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "season": {
+  "type": 2,
+  "year": 2026
+ },
+ "week": {
+  "number": 3,
+  "teamsOnBye": [
+   {
+    "id": "13",
+    "uid": "s:20~l:28~t:13",
+    "location": "Las Vegas",
+    "name": "Raiders",
+    "abbreviation": "LV",
+    "displayName": "Las Vegas Raiders",
+    "shortDisplayName": "Raiders",
+    "isActive": true,
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png"
+   },
+   {
+    "id": "25",
+    "uid": "s:20~l:28~t:25",
+    "location": "San Francisco",
+    "name": "49ers",
+    "abbreviation": "SF",
+    "displayName": "San Francisco 49ers",
+    "shortDisplayName": "49ers",
+    "isActive": true,
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
+   }
+  ]
+ },
+ "events": [
+  {
+   "id": "401900001",
+   "uid": "s:20~l:28~e:401900001~c:401900001",
+   "date": "2026-09-25T00:15Z",
+   "name": "Miami Dolphins at Buffalo Bills",
+   "shortName": "MIA @ BUF",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 3
+   },
+   "competitions": [
+    {
+     "id": "401900001",
+     "uid": "s:20~l:28~e:401900001~c:401900001",
+     "date": "2026-09-25T00:15Z",
+     "attendance": 68500,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4019000019",
+      "fullName": "Highmark Stadium",
+      "address": {
+       "city": "Orchard Park",
+       "state": "NY",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "2",
+       "uid": "s:20~l:23~t:2",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "2",
+        "uid": "s:20~l:28~t:2",
+        "location": "Buffalo",
+        "name": "Bills",
+        "abbreviation": "BUF",
+        "displayName": "Buffalo Bills",
+        "shortDisplayName": "Bills",
+        "color": "00338d",
+        "alternateColor": "d50a0a",
+        "isActive": true,
+        "venue": {
+         "id": "20"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
+       },
+       "score": "27",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 0
+        },
+        {
+         "value": 10
+        }
+       ],
+       "winner": true
+      },
+      {
+       "id": "15",
+       "uid": "s:20~l:23~t:15",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "15",
+        "uid": "s:20~l:28~t:15",
+        "location": "Miami",
+        "name": "Dolphins",
+        "abbreviation": "MIA",
+        "displayName": "Miami Dolphins",
+        "shortDisplayName": "Dolphins",
+        "color": "008e97",
+        "alternateColor": "fc4c02",
+        "isActive": true,
+        "venue": {
+         "id": "150"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png"
+       },
+       "score": "20",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "1-2"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        }
+       ],
+       "winner": false
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "Prime Video"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-25T00:15Z",
+     "broadcast": "Prime Video",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "Prime Video"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/nfl/game/_/gameId/401900001/miami-buffalo",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401900002",
+   "uid": "s:20~l:28~e:401900002~c:401900002",
+   "date": "2026-09-27T17:00Z",
+   "name": "Green Bay Packers at Detroit Lions",
+   "shortName": "GB @ DET",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 3
+   },
+   "competitions": [
+    {
+     "id": "401900002",
+     "uid": "s:20~l:28~e:401900002~c:401900002",
+     "date": "2026-09-27T17:00Z",
+     "attendance": 68500,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4019000029",
+      "fullName": "Ford Field",
+      "address": {
+       "city": "Detroit",
+       "state": "MI",
+       "country": "USA"
+      },
+      "indoor": true
+     },
+     "competitors": [
+      {
+       "id": "8",
+       "uid": "s:20~l:23~t:8",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "8",
+        "uid": "s:20~l:28~t:8",
+        "location": "Detroit",
+        "name": "Lions",
+        "abbreviation": "DET",
+        "displayName": "Detroit Lions",
+        "shortDisplayName": "Lions",
+        "color": "0076b6",
+        "alternateColor": "bbbbbb",
+        "isActive": true,
+        "venue": {
+         "id": "80"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png"
+       },
+       "score": "31",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": true
+      },
+      {
+       "id": "9",
+       "uid": "s:20~l:23~t:9",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "9",
+        "uid": "s:20~l:28~t:9",
+        "location": "Green Bay",
+        "name": "Packers",
+        "abbreviation": "GB",
+        "displayName": "Green Bay Packers",
+        "shortDisplayName": "Packers",
+        "color": "204e32",
+        "alternateColor": "ffb612",
+        "isActive": true,
+        "venue": {
+         "id": "90"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
+       },
+       "score": "24",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": false
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "FOX"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-27T17:00Z",
+     "broadcast": "FOX",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "FOX"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/nfl/game/_/gameId/401900002/green-bay-detroit",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401900003",
+   "uid": "s:20~l:28~e:401900003~c:401900003",
+   "date": "2026-09-27T17:00Z",
+   "name": "Pittsburgh Steelers at Baltimore Ravens",
+   "shortName": "PIT @ BAL",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 3
+   },
+   "competitions": [
+    {
+     "id": "401900003",
+     "uid": "s:20~l:28~e:401900003~c:401900003",
+     "date": "2026-09-27T17:00Z",
+     "attendance": 68500,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4019000039",
+      "fullName": "M&T Bank Stadium",
+      "address": {
+       "city": "Baltimore",
+       "state": "MD",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "33",
+       "uid": "s:20~l:23~t:33",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "33",
+        "uid": "s:20~l:28~t:33",
+        "location": "Baltimore",
+        "name": "Ravens",
+        "abbreviation": "BAL",
+        "displayName": "Baltimore Ravens",
+        "shortDisplayName": "Ravens",
+        "color": "29126f",
+        "alternateColor": "000000",
+        "isActive": true,
+        "venue": {
+         "id": "330"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png"
+       },
+       "score": "20",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 0
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        }
+       ],
+       "winner": true
+      },
+      {
+       "id": "23",
+       "uid": "s:20~l:23~t:23",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "23",
+        "uid": "s:20~l:28~t:23",
+        "location": "Pittsburgh",
+        "name": "Steelers",
+        "abbreviation": "PIT",
+        "displayName": "Pittsburgh Steelers",
+        "shortDisplayName": "Steelers",
+        "color": "000000",
+        "alternateColor": "ffb612",
+        "isActive": true,
+        "venue": {
+         "id": "230"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png"
+       },
+       "score": "17",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "1-2"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 0
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 0
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 0
+        }
+       ],
+       "winner": false
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 5,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final/OT",
+       "shortDetail": "Final/OT"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "CBS"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-27T17:00Z",
+     "broadcast": "CBS",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "CBS"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/nfl/game/_/gameId/401900003/pittsburgh-baltimore",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 5,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final/OT",
+     "shortDetail": "Final/OT"
+    }
+   }
+  },
+  {
+   "id": "401900004",
+   "uid": "s:20~l:28~e:401900004~c:401900004",
+   "date": "2026-09-27T17:00Z",
+   "name": "Houston Texans at Jacksonville Jaguars",
+   "shortName": "HOU @ JAX",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 3
+   },
+   "competitions": [
+    {
+     "id": "401900004",
+     "uid": "s:20~l:28~e:401900004~c:401900004",
+     "date": "2026-09-27T17:00Z",
+     "attendance": 68500,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4019000049",
+      "fullName": "EverBank Stadium",
+      "address": {
+       "city": "Jacksonville",
+       "state": "FL",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "30",
+       "uid": "s:20~l:23~t:30",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "30",
+        "uid": "s:20~l:28~t:30",
+        "location": "Jacksonville",
+        "name": "Jaguars",
+        "abbreviation": "JAX",
+        "displayName": "Jacksonville Jaguars",
+        "shortDisplayName": "Jaguars",
+        "color": "007487",
+        "alternateColor": "d7a22a",
+        "isActive": true,
+        "venue": {
+         "id": "300"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png"
+       },
+       "score": "13",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "1-2"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 3
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 0
+        }
+       ],
+       "winner": false
+      },
+      {
+       "id": "34",
+       "uid": "s:20~l:23~t:34",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "34",
+        "uid": "s:20~l:28~t:34",
+        "location": "Houston",
+        "name": "Texans",
+        "abbreviation": "HOU",
+        "displayName": "Houston Texans",
+        "shortDisplayName": "Texans",
+        "color": "03202f",
+        "alternateColor": "a71930",
+        "isActive": true,
+        "venue": {
+         "id": "340"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png"
+       },
+       "score": "21",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 0
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": true
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "CBS"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-27T17:00Z",
+     "broadcast": "CBS",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "CBS"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/nfl/game/_/gameId/401900004/houston-jacksonville",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401900005",
+   "uid": "s:20~l:28~e:401900005~c:401900005",
+   "date": "2026-09-27T17:00Z",
+   "name": "Tennessee Titans at Indianapolis Colts",
+   "shortName": "TEN @ IND",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 3
+   },
+   "competitions": [
+    {
+     "id": "401900005",
+     "uid": "s:20~l:28~e:401900005~c:401900005",
+     "date": "2026-09-27T17:00Z",
+     "attendance": 68500,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4019000059",
+      "fullName": "Lucas Oil Stadium",
+      "address": {
+       "city": "Indianapolis",
+       "state": "IN",
+       "country": "USA"
+      },
+      "indoor": true
+     },
+     "competitors": [
+      {
+       "id": "11",
+       "uid": "s:20~l:23~t:11",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "11",
+        "uid": "s:20~l:28~t:11",
+        "location": "Indianapolis",
+        "name": "Colts",
+        "abbreviation": "IND",
+        "displayName": "Indianapolis Colts",
+        "shortDisplayName": "Colts",
+        "color": "003b75",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "110"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png"
+       },
+       "score": "24",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": true
+      },
+      {
+       "id": "10",
+       "uid": "s:20~l:23~t:10",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "10",
+        "uid": "s:20~l:28~t:10",
+        "location": "Tennessee",
+        "name": "Titans",
+        "abbreviation": "TEN",
+        "displayName": "Tennessee Titans",
+        "shortDisplayName": "Titans",
+        "color": "4b92db",
+        "alternateColor": "0c2340",
+        "isActive": true,
+        "venue": {
+         "id": "100"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png"
+       },
+       "score": "10",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "0-3"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 0
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 0
+        }
+       ],
+       "winner": false
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "CBS"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-27T17:00Z",
+     "broadcast": "CBS",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "CBS"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/nfl/game/_/gameId/401900005/tennessee-indianapolis",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401900006",
+   "uid": "s:20~l:28~e:401900006~c:401900006",
+   "date": "2026-09-27T17:00Z",
+   "name": "Carolina Panthers at Atlanta Falcons",
+   "shortName": "CAR @ ATL",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 3
+   },
+   "competitions": [
+    {
+     "id": "401900006",
+     "uid": "s:20~l:28~e:401900006~c:401900006",
+     "date": "2026-09-27T17:00Z",
+     "attendance": 68500,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4019000069",
+      "fullName": "Mercedes-Benz Stadium",
+      "address": {
+       "city": "Atlanta",
+       "state": "GA",
+       "country": "USA"
+      },
+      "indoor": true
+     },
+     "competitors": [
+      {
+       "id": "1",
+       "uid": "s:20~l:23~t:1",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "1",
+        "uid": "s:20~l:28~t:1",
+        "location": "Atlanta",
+        "name": "Falcons",
+        "abbreviation": "ATL",
+        "displayName": "Atlanta Falcons",
+        "shortDisplayName": "Falcons",
+        "color": "a71930",
+        "alternateColor": "000000",
+        "isActive": true,
+        "venue": {
+         "id": "10"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png"
+       },
+       "score": "23",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 3
+        }
+       ],
+       "winner": true
+      },
+      {
+       "id": "29",
+       "uid": "s:20~l:23~t:29",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "29",
+        "uid": "s:20~l:28~t:29",
+        "location": "Carolina",
+        "name": "Panthers",
+        "abbreviation": "CAR",
+        "displayName": "Carolina Panthers",
+        "shortDisplayName": "Panthers",
+        "color": "0085ca",
+        "alternateColor": "000000",
+        "isActive": true,
+        "venue": {
+         "id": "290"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png"
+       },
+       "score": "16",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "1-2"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 3
+        }
+       ],
+       "winner": false
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "FOX"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-27T17:00Z",
+     "broadcast": "FOX",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "FOX"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/nfl/game/_/gameId/401900006/carolina-atlanta",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401900007",
+   "uid": "s:20~l:28~e:401900007~c:401900007",
+   "date": "2026-09-27T17:00Z",
+   "name": "Los Angeles Chargers at New York Giants",
+   "shortName": "LAC @ NYG",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 3
+   },
+   "competitions": [
+    {
+     "id": "401900007",
+     "uid": "s:20~l:28~e:401900007~c:401900007",
+     "date": "2026-09-27T17:00Z",
+     "attendance": 68500,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4019000079",
+      "fullName": "MetLife Stadium",
+      "address": {
+       "city": "East Rutherford",
+       "state": "NJ",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "19",
+       "uid": "s:20~l:23~t:19",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "19",
+        "uid": "s:20~l:28~t:19",
+        "location": "New York",
+        "name": "Giants",
+        "abbreviation": "NYG",
+        "displayName": "New York Giants",
+        "shortDisplayName": "Giants",
+        "color": "003c7f",
+        "alternateColor": "c9243f",
+        "isActive": true,
+        "venue": {
+         "id": "190"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png"
+       },
+       "score": "17",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "0-3"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 0
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        }
+       ],
+       "winner": false
+      },
+      {
+       "id": "24",
+       "uid": "s:20~l:23~t:24",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "24",
+        "uid": "s:20~l:28~t:24",
+        "location": "Los Angeles",
+        "name": "Chargers",
+        "abbreviation": "LAC",
+        "displayName": "Los Angeles Chargers",
+        "shortDisplayName": "Chargers",
+        "color": "0080c6",
+        "alternateColor": "ffc20e",
+        "isActive": true,
+        "venue": {
+         "id": "240"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png"
+       },
+       "score": "27",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": true
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "CBS"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-27T17:00Z",
+     "broadcast": "CBS",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "CBS"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/nfl/game/_/gameId/401900007/los-angeles-new-york",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401900008",
+   "uid": "s:20~l:28~e:401900008~c:401900008",
+   "date": "2026-09-27T17:00Z",
+   "name": "Chicago Bears at Minnesota Vikings",
+   "shortName": "CHI @ MIN",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 3
+   },
+   "competitions": [
+    {
+     "id": "401900008",
+     "uid": "s:20~l:28~e:401900008~c:401900008",
+     "date": "2026-09-27T17:00Z",
+     "attendance": 68500,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4019000089",
+      "fullName": "U.S. Bank Stadium",
+      "address": {
+       "city": "Minneapolis",
+       "state": "MN",
+       "country": "USA"
+      },
+      "indoor": true
+     },
+     "competitors": [
+      {
+       "id": "16",
+       "uid": "s:20~l:23~t:16",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "16",
+        "uid": "s:20~l:28~t:16",
+        "location": "Minnesota",
+        "name": "Vikings",
+        "abbreviation": "MIN",
+        "displayName": "Minnesota Vikings",
+        "shortDisplayName": "Vikings",
+        "color": "4f2683",
+        "alternateColor": "ffc62f",
+        "isActive": true,
+        "venue": {
+         "id": "160"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png"
+       },
+       "score": "17",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "1-2"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 0
+        }
+       ],
+       "winner": false
+      },
+      {
+       "id": "3",
+       "uid": "s:20~l:23~t:3",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "3",
+        "uid": "s:20~l:28~t:3",
+        "location": "Chicago",
+        "name": "Bears",
+        "abbreviation": "CHI",
+        "displayName": "Chicago Bears",
+        "shortDisplayName": "Bears",
+        "color": "0b1c3a",
+        "alternateColor": "e64100",
+        "isActive": true,
+        "venue": {
+         "id": "30"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png"
+       },
+       "score": "20",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": true
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "FOX"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-27T17:00Z",
+     "broadcast": "FOX",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "FOX"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/nfl/game/_/gameId/401900008/chicago-minnesota",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401900009",
+   "uid": "s:20~l:28~e:401900009~c:401900009",
+   "date": "2026-09-27T17:00Z",
+   "name": "Cleveland Browns at Cincinnati Bengals",
+   "shortName": "CLE @ CIN",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 3
+   },
+   "competitions": [
+    {
+     "id": "401900009",
+     "uid": "s:20~l:28~e:401900009~c:401900009",
+     "date": "2026-09-27T17:00Z",
+     "attendance": 68500,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4019000099",
+      "fullName": "Paycor Stadium",
+      "address": {
+       "city": "Cincinnati",
+       "state": "OH",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "4",
+       "uid": "s:20~l:23~t:4",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "4",
+        "uid": "s:20~l:28~t:4",
+        "location": "Cincinnati",
+        "name": "Bengals",
+        "abbreviation": "CIN",
+        "displayName": "Cincinnati Bengals",
+        "shortDisplayName": "Bengals",
+        "color": "fb4f14",
+        "alternateColor": "000000",
+        "isActive": true,
+        "venue": {
+         "id": "40"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
+       },
+       "score": "30",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 10
+        }
+       ],
+       "winner": true
+      },
+      {
+       "id": "5",
+       "uid": "s:20~l:23~t:5",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "5",
+        "uid": "s:20~l:28~t:5",
+        "location": "Cleveland",
+        "name": "Browns",
+        "abbreviation": "CLE",
+        "displayName": "Cleveland Browns",
+        "shortDisplayName": "Browns",
+        "color": "472a08",
+        "alternateColor": "ff3c00",
+        "isActive": true,
+        "venue": {
+         "id": "50"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png"
+       },
+       "score": "13",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "0-3"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 3
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 0
+        }
+       ],
+       "winner": false
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "CBS"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-27T17:00Z",
+     "broadcast": "CBS",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "CBS"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/nfl/game/_/gameId/401900009/cleveland-cincinnati",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401900010",
+   "uid": "s:20~l:28~e:401900010~c:401900010",
+   "date": "2026-09-27T17:00Z",
+   "name": "New Orleans Saints at Tampa Bay Buccaneers",
+   "shortName": "NO @ TB",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 3
+   },
+   "competitions": [
+    {
+     "id": "401900010",
+     "uid": "s:20~l:28~e:401900010~c:401900010",
+     "date": "2026-09-27T17:00Z",
+     "attendance": 68500,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4019000109",
+      "fullName": "Raymond James Stadium",
+      "address": {
+       "city": "Tampa",
+       "state": "FL",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "27",
+       "uid": "s:20~l:23~t:27",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "27",
+        "uid": "s:20~l:28~t:27",
+        "location": "Tampa Bay",
+        "name": "Buccaneers",
+        "abbreviation": "TB",
+        "displayName": "Tampa Bay Buccaneers",
+        "shortDisplayName": "Buccaneers",
+        "color": "bd1c36",
+        "alternateColor": "3e3a35",
+        "isActive": true,
+        "venue": {
+         "id": "270"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png"
+       },
+       "score": "35",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 14
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": true
+      },
+      {
+       "id": "18",
+       "uid": "s:20~l:23~t:18",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "18",
+        "uid": "s:20~l:28~t:18",
+        "location": "New Orleans",
+        "name": "Saints",
+        "abbreviation": "NO",
+        "displayName": "New Orleans Saints",
+        "shortDisplayName": "Saints",
+        "color": "d3bc8d",
+        "alternateColor": "000000",
+        "isActive": true,
+        "venue": {
+         "id": "180"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png"
+       },
+       "score": "14",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "0-3"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 0
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 0
+        }
+       ],
+       "winner": false
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "FOX"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-27T17:00Z",
+     "broadcast": "FOX",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "FOX"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/nfl/game/_/gameId/401900010/new-orleans-tampa-bay",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401900011",
+   "uid": "s:20~l:28~e:401900011~c:401900011",
+   "date": "2026-09-27T20:05Z",
+   "name": "Arizona Cardinals at Seattle Seahawks",
+   "shortName": "ARI @ SEA",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 3
+   },
+   "competitions": [
+    {
+     "id": "401900011",
+     "uid": "s:20~l:28~e:401900011~c:401900011",
+     "date": "2026-09-27T20:05Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4019000119",
+      "fullName": "Lumen Field",
+      "address": {
+       "city": "Seattle",
+       "state": "WA",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "26",
+       "uid": "s:20~l:23~t:26",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "26",
+        "uid": "s:20~l:28~t:26",
+        "location": "Seattle",
+        "name": "Seahawks",
+        "abbreviation": "SEA",
+        "displayName": "Seattle Seahawks",
+        "shortDisplayName": "Seahawks",
+        "color": "002a5c",
+        "alternateColor": "69be28",
+        "isActive": true,
+        "venue": {
+         "id": "260"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
+       },
+       "score": "20",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "1-1"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 3
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 0
+        },
+        {
+         "value": 7
+        }
+       ]
+      },
+      {
+       "id": "22",
+       "uid": "s:20~l:23~t:22",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "22",
+        "uid": "s:20~l:28~t:22",
+        "location": "Arizona",
+        "name": "Cardinals",
+        "abbreviation": "ARI",
+        "displayName": "Arizona Cardinals",
+        "shortDisplayName": "Cardinals",
+        "color": "a4113e",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "220"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png"
+       },
+       "score": "17",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "2-0"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 0
+        }
+       ]
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "6:12",
+      "period": 4,
+      "type": {
+       "id": "2",
+       "name": "STATUS_IN_PROGRESS",
+       "state": "in",
+       "completed": false,
+       "description": "In Progress",
+       "detail": "6:12 - 4th Quarter",
+       "shortDetail": "6:12 - 4th"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "FOX"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-27T20:05Z",
+     "broadcast": "FOX",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "FOX"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "situation": {
+      "down": 3,
+      "yardLine": 38,
+      "distance": 4,
+      "downDistanceText": "3rd & 4 at SEA 38",
+      "shortDownDistanceText": "3rd & 4",
+      "possessionText": "SEA 38",
+      "isRedZone": false,
+      "homeTimeouts": 3,
+      "awayTimeouts": 2,
+      "possession": "22",
+      "lastPlay": {
+       "id": "1",
+       "type": {
+        "id": "24",
+        "text": "Pass Reception",
+        "abbreviation": "REC"
+       },
+       "text": "Kyler Murray pass short right to Trey McBride for 9 yards.",
+       "scoreValue": 0,
+       "team": {
+        "id": "22"
+       },
+       "probability": {
+        "tiePercentage": 0,
+        "homeWinPercentage": 0.58,
+        "awayWinPercentage": 0.42
+       }
+      }
+     }
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/nfl/game/_/gameId/401900011/arizona-seattle",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "6:12",
+    "period": 4,
+    "type": {
+     "id": "2",
+     "name": "STATUS_IN_PROGRESS",
+     "state": "in",
+     "completed": false,
+     "description": "In Progress",
+     "detail": "6:12 - 4th Quarter",
+     "shortDetail": "6:12 - 4th"
+    }
+   }
+  },
+  {
+   "id": "401900012",
+   "uid": "s:20~l:28~e:401900012~c:401900012",
+   "date": "2026-09-27T20:25Z",
+   "name": "Kansas City Chiefs at Denver Broncos",
+   "shortName": "KC @ DEN",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 3
+   },
+   "competitions": [
+    {
+     "id": "401900012",
+     "uid": "s:20~l:28~e:401900012~c:401900012",
+     "date": "2026-09-27T20:25Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4019000129",
+      "fullName": "Empower Field at Mile High",
+      "address": {
+       "city": "Denver",
+       "state": "CO",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "7",
+       "uid": "s:20~l:23~t:7",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "7",
+        "uid": "s:20~l:28~t:7",
+        "location": "Denver",
+        "name": "Broncos",
+        "abbreviation": "DEN",
+        "displayName": "Denver Broncos",
+        "shortDisplayName": "Broncos",
+        "color": "0a2343",
+        "alternateColor": "fc4c02",
+        "isActive": true,
+        "venue": {
+         "id": "70"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
+       },
+       "score": "14",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "1-1"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 0
+        },
+        {
+         "value": 14
+        },
+        {
+         "value": 0
+        }
+       ]
+      },
+      {
+       "id": "12",
+       "uid": "s:20~l:23~t:12",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "12",
+        "uid": "s:20~l:28~t:12",
+        "location": "Kansas City",
+        "name": "Chiefs",
+        "abbreviation": "KC",
+        "displayName": "Kansas City Chiefs",
+        "shortDisplayName": "Chiefs",
+        "color": "e31837",
+        "alternateColor": "ffb612",
+        "isActive": true,
+        "venue": {
+         "id": "120"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png"
+       },
+       "score": "21",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "2-0"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        }
+       ]
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "2:41",
+      "period": 3,
+      "type": {
+       "id": "2",
+       "name": "STATUS_IN_PROGRESS",
+       "state": "in",
+       "completed": false,
+       "description": "In Progress",
+       "detail": "2:41 - 3rd Quarter",
+       "shortDetail": "2:41 - 3rd"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "CBS"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-27T20:25Z",
+     "broadcast": "CBS",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "CBS"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "situation": {
+      "down": 1,
+      "yardLine": 4,
+      "distance": 4,
+      "downDistanceText": "1st & Goal at KC 4",
+      "shortDownDistanceText": "1st & Goal",
+      "possessionText": "KC 4",
+      "isRedZone": true,
+      "homeTimeouts": 3,
+      "awayTimeouts": 2,
+      "possession": "7",
+      "lastPlay": {
+       "id": "1",
+       "type": {
+        "id": "24",
+        "text": "Pass Reception",
+        "abbreviation": "REC"
+       },
+       "text": "Bo Nix pass deep left to Courtland Sutton for 31 yards.",
+       "scoreValue": 0,
+       "team": {
+        "id": "7"
+       },
+       "probability": {
+        "tiePercentage": 0,
+        "homeWinPercentage": 0.41,
+        "awayWinPercentage": 0.59
+       }
+      }
+     },
+     "leaders": [
+      {
+       "name": "passingYards",
+       "displayName": "Passing Leader",
+       "shortDisplayName": "PASS",
+       "abbreviation": "PASS",
+       "leaders": [
+        {
+         "displayValue": "17/24, 211 YDS, 2 TD",
+         "value": 0,
+         "athlete": {
+          "id": "1",
+          "fullName": "Patrick Mahomes",
+          "displayName": "Patrick Mahomes",
+          "shortName": "P. Mahomes",
+          "position": {
+           "abbreviation": "QB"
+          },
+          "team": {
+           "id": "12"
+          }
+         },
+         "team": {
+          "id": "12"
+         }
+        }
+       ]
+      },
+      {
+       "name": "rushingYards",
+       "displayName": "Rushing Leader",
+       "shortDisplayName": "RUSH",
+       "abbreviation": "RUSH",
+       "leaders": [
+        {
+         "displayValue": "11 CAR, 58 YDS",
+         "value": 0,
+         "athlete": {
+          "id": "1",
+          "fullName": "J.K. Dobbins",
+          "displayName": "J.K. Dobbins",
+          "shortName": "J.K. Dobbins",
+          "position": {
+           "abbreviation": "RB"
+          },
+          "team": {
+           "id": "7"
+          }
+         },
+         "team": {
+          "id": "7"
+         }
+        }
+       ]
+      },
+      {
+       "name": "receivingYards",
+       "displayName": "Receiving Leader",
+       "shortDisplayName": "REC",
+       "abbreviation": "REC",
+       "leaders": [
+        {
+         "displayValue": "6 REC, 88 YDS, 1 TD",
+         "value": 0,
+         "athlete": {
+          "id": "1",
+          "fullName": "Travis Kelce",
+          "displayName": "Travis Kelce",
+          "shortName": "T. Kelce",
+          "position": {
+           "abbreviation": "TE"
+          },
+          "team": {
+           "id": "12"
+          }
+         },
+         "team": {
+          "id": "12"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/nfl/game/_/gameId/401900012/kansas-city-denver",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "2:41",
+    "period": 3,
+    "type": {
+     "id": "2",
+     "name": "STATUS_IN_PROGRESS",
+     "state": "in",
+     "completed": false,
+     "description": "In Progress",
+     "detail": "2:41 - 3rd Quarter",
+     "shortDetail": "2:41 - 3rd"
+    }
+   }
+  },
+  {
+   "id": "401900013",
+   "uid": "s:20~l:28~e:401900013~c:401900013",
+   "date": "2026-09-27T20:25Z",
+   "name": "Dallas Cowboys at Philadelphia Eagles",
+   "shortName": "DAL @ PHI",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 3
+   },
+   "competitions": [
+    {
+     "id": "401900013",
+     "uid": "s:20~l:28~e:401900013~c:401900013",
+     "date": "2026-09-27T20:25Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4019000139",
+      "fullName": "Lincoln Financial Field",
+      "address": {
+       "city": "Philadelphia",
+       "state": "PA",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "21",
+       "uid": "s:20~l:23~t:21",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "21",
+        "uid": "s:20~l:28~t:21",
+        "location": "Philadelphia",
+        "name": "Eagles",
+        "abbreviation": "PHI",
+        "displayName": "Philadelphia Eagles",
+        "shortDisplayName": "Eagles",
+        "color": "06424d",
+        "alternateColor": "000000",
+        "isActive": true,
+        "venue": {
+         "id": "210"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png"
+       },
+       "score": "17",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "2-0"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 10
+        }
+       ]
+      },
+      {
+       "id": "6",
+       "uid": "s:20~l:23~t:6",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "6",
+        "uid": "s:20~l:28~t:6",
+        "location": "Dallas",
+        "name": "Cowboys",
+        "abbreviation": "DAL",
+        "displayName": "Dallas Cowboys",
+        "shortDisplayName": "Cowboys",
+        "color": "002a5c",
+        "alternateColor": "b0b7bc",
+        "isActive": true,
+        "venue": {
+         "id": "60"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
+       },
+       "score": "10",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "1-1"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        }
+       ]
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 2,
+      "type": {
+       "id": "23",
+       "name": "STATUS_HALFTIME",
+       "state": "in",
+       "completed": false,
+       "description": "Halftime",
+       "detail": "Halftime",
+       "shortDetail": "Halftime"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "CBS"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-27T20:25Z",
+     "broadcast": "CBS",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "CBS"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/nfl/game/_/gameId/401900013/dallas-philadelphia",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 2,
+    "type": {
+     "id": "23",
+     "name": "STATUS_HALFTIME",
+     "state": "in",
+     "completed": false,
+     "description": "Halftime",
+     "detail": "Halftime",
+     "shortDetail": "Halftime"
+    }
+   }
+  },
+  {
+   "id": "401900014",
+   "uid": "s:20~l:28~e:401900014~c:401900014",
+   "date": "2026-09-28T00:20Z",
+   "name": "Los Angeles Rams at Washington Commanders",
+   "shortName": "LAR @ WSH",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 3
+   },
+   "competitions": [
+    {
+     "id": "401900014",
+     "uid": "s:20~l:28~e:401900014~c:401900014",
+     "date": "2026-09-28T00:20Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4019000149",
+      "fullName": "Northwest Stadium",
+      "address": {
+       "city": "Landover",
+       "state": "MD",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "28",
+       "uid": "s:20~l:23~t:28",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "28",
+        "uid": "s:20~l:28~t:28",
+        "location": "Washington",
+        "name": "Commanders",
+        "abbreviation": "WSH",
+        "displayName": "Washington Commanders",
+        "shortDisplayName": "Commanders",
+        "color": "5a1414",
+        "alternateColor": "ffb612",
+        "isActive": true,
+        "venue": {
+         "id": "280"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "2-0"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ]
+      },
+      {
+       "id": "14",
+       "uid": "s:20~l:23~t:14",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "14",
+        "uid": "s:20~l:28~t:14",
+        "location": "Los Angeles",
+        "name": "Rams",
+        "abbreviation": "LAR",
+        "displayName": "Los Angeles Rams",
+        "shortDisplayName": "Rams",
+        "color": "003594",
+        "alternateColor": "ffd100",
+        "isActive": true,
+        "venue": {
+         "id": "140"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "1-1"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ]
+      }
+     ],
+     "notes": [
+      {
+       "type": "event",
+       "headline": "Sunday Night Football"
+      }
+     ],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "Sun, September 27th at 8:20 PM EDT",
+       "shortDetail": "9/27 - 8:20 PM EDT"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "NBC"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-28T00:20Z",
+     "broadcast": "NBC",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "NBC"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "odds": [
+      {
+       "provider": {
+        "id": "58",
+        "name": "ESPN BET",
+        "priority": 1
+       },
+       "details": "LAR -2.5",
+       "overUnder": 47.5,
+       "spread": 0
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/nfl/game/_/gameId/401900014/los-angeles-washington",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 0,
+    "type": {
+     "id": "1",
+     "name": "STATUS_SCHEDULED",
+     "state": "pre",
+     "completed": false,
+     "description": "Scheduled",
+     "detail": "Sun, September 27th at 8:20 PM EDT",
+     "shortDetail": "9/27 - 8:20 PM EDT"
+    }
+   }
+  },
+  {
+   "id": "401900015",
+   "uid": "s:20~l:28~e:401900015~c:401900015",
+   "date": "2026-09-29T00:15Z",
+   "name": "New York Jets at New England Patriots",
+   "shortName": "NYJ @ NE",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 3
+   },
+   "competitions": [
+    {
+     "id": "401900015",
+     "uid": "s:20~l:28~e:401900015~c:401900015",
+     "date": "2026-09-29T00:15Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4019000159",
+      "fullName": "Gillette Stadium",
+      "address": {
+       "city": "Foxborough",
+       "state": "MA",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "17",
+       "uid": "s:20~l:23~t:17",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "17",
+        "uid": "s:20~l:28~t:17",
+        "location": "New England",
+        "name": "Patriots",
+        "abbreviation": "NE",
+        "displayName": "New England Patriots",
+        "shortDisplayName": "Patriots",
+        "color": "002a5c",
+        "alternateColor": "c60c30",
+        "isActive": true,
+        "venue": {
+         "id": "170"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "1-1"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ]
+      },
+      {
+       "id": "20",
+       "uid": "s:20~l:23~t:20",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "20",
+        "uid": "s:20~l:28~t:20",
+        "location": "New York",
+        "name": "Jets",
+        "abbreviation": "NYJ",
+        "displayName": "New York Jets",
+        "shortDisplayName": "Jets",
+        "color": "115740",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "200"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Any",
+         "type": "total",
+         "summary": "1-1"
+        },
+        {
+         "name": "Home",
+         "abbreviation": "Home",
+         "type": "home",
+         "summary": "1-0"
+        },
+        {
+         "name": "Road",
+         "abbreviation": "Away",
+         "type": "road",
+         "summary": "1-0"
+        }
+       ]
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "Mon, September 28th at 8:15 PM EDT",
+       "shortDetail": "9/28 - 8:15 PM EDT"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN",
+        "ABC"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-29T00:15Z",
+     "broadcast": "ESPN/ABC",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN"
+       },
+       "lang": "en",
+       "region": "us"
+      },
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ABC"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "odds": [
+      {
+       "provider": {
+        "id": "58",
+        "name": "ESPN BET",
+        "priority": 1
+       },
+       "details": "NE -3",
+       "overUnder": 41.5,
+       "spread": 0
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/nfl/game/_/gameId/401900015/new-york-new-england",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 0,
+    "type": {
+     "id": "1",
+     "name": "STATUS_SCHEDULED",
+     "state": "pre",
+     "completed": false,
+     "description": "Scheduled",
+     "detail": "Mon, September 28th at 8:15 PM EDT",
+     "shortDetail": "9/28 - 8:15 PM EDT"
+    }
+   }
+  }
+ ]
+}

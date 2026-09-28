@@ -1,0 +1,1413 @@
+{
+ "leagues": [
+  {
+   "id": "23",
+   "uid": "s:20~l:23",
+   "name": "NCAA - Football",
+   "abbreviation": "NCAAF",
+   "midsizeName": "NCAAF",
+   "slug": "college-football",
+   "season": {
+    "year": 2026,
+    "startDate": "2026-07-01T07:00Z",
+    "endDate": "2027-01-21T07:59Z",
+    "displayName": "2026",
+    "type": {
+     "id": "2",
+     "type": 2,
+     "name": "Regular Season",
+     "abbreviation": "reg"
+    }
+   },
+   "logos": [],
+   "calendarType": "list",
+   "calendarIsWhitelist": true,
+   "calendarStartDate": "2026-07-01T07:00Z",
+   "calendarEndDate": "2027-01-21T07:59Z",
+   "calendar": [
+    {
+     "label": "Regular Season",
+     "value": "2",
+     "startDate": "2026-08-29T07:00Z",
+     "endDate": "2026-12-15T06:59Z",
+     "entries": [
+      {
+       "label": "Week 1",
+       "alternateLabel": "Week 1",
+       "detail": "Aug 29-Sep 7",
+       "value": "1",
+       "startDate": "2026-08-29T07:00Z",
+       "endDate": "2026-09-08T06:59Z"
+      },
+      {
+       "label": "Week 2",
+       "alternateLabel": "Week 2",
+       "detail": "Sep 8-Sep 14",
+       "value": "2",
+       "startDate": "2026-09-08T07:00Z",
+       "endDate": "2026-09-15T06:59Z"
+      },
+      {
+       "label": "Week 3",
+       "alternateLabel": "Week 3",
+       "detail": "Sep 15-Sep 21",
+       "value": "3",
+       "startDate": "2026-09-15T07:00Z",
+       "endDate": "2026-09-22T06:59Z"
+      },
+      {
+       "label": "Week 4",
+       "alternateLabel": "Week 4",
+       "detail": "Sep 22-Sep 28",
+       "value": "4",
+       "startDate": "2026-09-22T07:00Z",
+       "endDate": "2026-09-29T06:59Z"
+      },
+      {
+       "label": "Week 5",
+       "alternateLabel": "Week 5",
+       "detail": "Sep 29-Oct 5",
+       "value": "5",
+       "startDate": "2026-09-29T07:00Z",
+       "endDate": "2026-10-06T06:59Z"
+      },
+      {
+       "label": "Week 6",
+       "alternateLabel": "Week 6",
+       "detail": "Oct 6-Oct 12",
+       "value": "6",
+       "startDate": "2026-10-06T07:00Z",
+       "endDate": "2026-10-13T06:59Z"
+      },
+      {
+       "label": "Week 7",
+       "alternateLabel": "Week 7",
+       "detail": "Oct 13-Oct 19",
+       "value": "7",
+       "startDate": "2026-10-13T07:00Z",
+       "endDate": "2026-10-20T06:59Z"
+      },
+      {
+       "label": "Week 8",
+       "alternateLabel": "Week 8",
+       "detail": "Oct 20-Oct 26",
+       "value": "8",
+       "startDate": "2026-10-20T07:00Z",
+       "endDate": "2026-10-27T06:59Z"
+      },
+      {
+       "label": "Week 9",
+       "alternateLabel": "Week 9",
+       "detail": "Oct 27-Nov 2",
+       "value": "9",
+       "startDate": "2026-10-27T07:00Z",
+       "endDate": "2026-11-03T06:59Z"
+      },
+      {
+       "label": "Week 10",
+       "alternateLabel": "Week 10",
+       "detail": "Nov 3-Nov 9",
+       "value": "10",
+       "startDate": "2026-11-03T07:00Z",
+       "endDate": "2026-11-10T06:59Z"
+      },
+      {
+       "label": "Week 11",
+       "alternateLabel": "Week 11",
+       "detail": "Nov 10-Nov 16",
+       "value": "11",
+       "startDate": "2026-11-10T07:00Z",
+       "endDate": "2026-11-17T06:59Z"
+      },
+      {
+       "label": "Week 12",
+       "alternateLabel": "Week 12",
+       "detail": "Nov 17-Nov 23",
+       "value": "12",
+       "startDate": "2026-11-17T07:00Z",
+       "endDate": "2026-11-24T06:59Z"
+      },
+      {
+       "label": "Week 13",
+       "alternateLabel": "Week 13",
+       "detail": "Nov 24-Nov 30",
+       "value": "13",
+       "startDate": "2026-11-24T07:00Z",
+       "endDate": "2026-12-01T06:59Z"
+      },
+      {
+       "label": "Week 14",
+       "alternateLabel": "Week 14",
+       "detail": "Dec 1-Dec 7",
+       "value": "14",
+       "startDate": "2026-12-01T07:00Z",
+       "endDate": "2026-12-08T06:59Z"
+      },
+      {
+       "label": "Week 15",
+       "alternateLabel": "Week 15",
+       "detail": "Dec 8-Dec 14",
+       "value": "15",
+       "startDate": "2026-12-08T07:00Z",
+       "endDate": "2026-12-15T06:59Z"
+      }
+     ]
+    },
+    {
+     "label": "Postseason",
+     "value": "3",
+     "startDate": "2026-12-15T08:00Z",
+     "endDate": "2027-01-21T07:59Z",
+     "entries": [
+      {
+       "label": "Bowls",
+       "alternateLabel": "Bowls",
+       "detail": "Dec 15-Jan 20",
+       "value": "1",
+       "startDate": "2026-12-15T08:00Z",
+       "endDate": "2027-01-21T07:59Z"
+      }
+     ]
+    },
+    {
+     "label": "Off Season",
+     "value": "4",
+     "startDate": "2027-01-21T08:00Z",
+     "endDate": "2027-07-01T06:59Z",
+     "entries": [
+      {
+       "label": "What's Next",
+       "alternateLabel": "What's Next",
+       "detail": "Jan 21-Jul 1",
+       "value": "1",
+       "startDate": "2027-01-21T08:00Z",
+       "endDate": "2027-07-01T06:59Z"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "season": {
+  "type": 2,
+  "year": 2026
+ },
+ "week": {
+  "number": 4
+ },
+ "events": [
+  {
+   "id": "401850001",
+   "uid": "s:20~l:23~e:401850001~c:401850001",
+   "date": "2026-09-26T19:00Z",
+   "name": "Idaho Vandals at Montana Grizzlies",
+   "shortName": "IDHO @ MONT",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401850001",
+     "uid": "s:20~l:23~e:401850001~c:401850001",
+     "date": "2026-09-26T19:00Z",
+     "attendance": 18000,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018500019",
+      "fullName": "Washington-Grizzly Stadium",
+      "address": {
+       "city": "Missoula",
+       "state": "MT",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "149",
+       "uid": "s:20~l:23~t:149",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "149",
+        "uid": "s:20~l:23~t:149",
+        "location": "Montana",
+        "name": "Grizzlies",
+        "abbreviation": "MONT",
+        "displayName": "Montana Grizzlies",
+        "shortDisplayName": "Montana",
+        "color": "70003c",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "1490"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
+        "conferenceId": "20"
+       },
+       "score": "34",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "4-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": true,
+       "curatedRank": {
+        "current": 3
+       }
+      },
+      {
+       "id": "70",
+       "uid": "s:20~l:23~t:70",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "70",
+        "uid": "s:20~l:23~t:70",
+        "location": "Idaho",
+        "name": "Vandals",
+        "abbreviation": "IDHO",
+        "displayName": "Idaho Vandals",
+        "shortDisplayName": "Idaho",
+        "color": "b5985a",
+        "alternateColor": "000000",
+        "isActive": true,
+        "venue": {
+         "id": "700"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
+        "conferenceId": "20"
+       },
+       "score": "17",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-2"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-1"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 0
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": false,
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN+"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T19:00Z",
+     "broadcast": "ESPN+",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN+"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401850001/idaho-montana",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401850002",
+   "uid": "s:20~l:23~e:401850002~c:401850002",
+   "date": "2026-09-26T21:00Z",
+   "name": "Weber State Wildcats at UC Davis Aggies",
+   "shortName": "WEB @ UCD",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401850002",
+     "uid": "s:20~l:23~e:401850002~c:401850002",
+     "date": "2026-09-26T21:00Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018500029",
+      "fullName": "UC Davis Health Stadium",
+      "address": {
+       "city": "Davis",
+       "state": "CA",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "302",
+       "uid": "s:20~l:23~t:302",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "302",
+        "uid": "s:20~l:23~t:302",
+        "location": "UC Davis",
+        "name": "Aggies",
+        "abbreviation": "UCD",
+        "displayName": "UC Davis Aggies",
+        "shortDisplayName": "UC Davis",
+        "color": "002855",
+        "alternateColor": "b3a369",
+        "isActive": true,
+        "venue": {
+         "id": "3020"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/302.png",
+        "conferenceId": "20"
+       },
+       "score": "24",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 17
+        },
+        {
+         "value": 0
+        }
+       ],
+       "curatedRank": {
+        "current": 7
+       }
+      },
+      {
+       "id": "2692",
+       "uid": "s:20~l:23~t:2692",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "2692",
+        "uid": "s:20~l:23~t:2692",
+        "location": "Weber State",
+        "name": "Wildcats",
+        "abbreviation": "WEB",
+        "displayName": "Weber State Wildcats",
+        "shortDisplayName": "Weber State",
+        "color": "492365",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "26920"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
+        "conferenceId": "20"
+       },
+       "score": "10",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "1-2"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 0
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "11:05",
+      "period": 3,
+      "type": {
+       "id": "2",
+       "name": "STATUS_IN_PROGRESS",
+       "state": "in",
+       "completed": false,
+       "description": "In Progress",
+       "detail": "11:05 - 3rd Quarter",
+       "shortDetail": "11:05 - 3rd"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN+"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T21:00Z",
+     "broadcast": "ESPN+",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN+"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401850002/weber-state-uc-davis",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "11:05",
+    "period": 3,
+    "type": {
+     "id": "2",
+     "name": "STATUS_IN_PROGRESS",
+     "state": "in",
+     "completed": false,
+     "description": "In Progress",
+     "detail": "11:05 - 3rd Quarter",
+     "shortDetail": "11:05 - 3rd"
+    }
+   }
+  },
+  {
+   "id": "401850003",
+   "uid": "s:20~l:23~e:401850003~c:401850003",
+   "date": "2026-09-26T19:00Z",
+   "name": "Northern Iowa Panthers at North Dakota State Bison",
+   "shortName": "UNI @ NDSU",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401850003",
+     "uid": "s:20~l:23~e:401850003~c:401850003",
+     "date": "2026-09-26T19:00Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018500039",
+      "fullName": "Fargodome",
+      "address": {
+       "city": "Fargo",
+       "state": "ND",
+       "country": "USA"
+      },
+      "indoor": true
+     },
+     "competitors": [
+      {
+       "id": "2449",
+       "uid": "s:20~l:23~t:2449",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "2449",
+        "uid": "s:20~l:23~t:2449",
+        "location": "North Dakota State",
+        "name": "Bison",
+        "abbreviation": "NDSU",
+        "displayName": "North Dakota State Bison",
+        "shortDisplayName": "North Dakota State",
+        "color": "0a5640",
+        "alternateColor": "ffc82e",
+        "isActive": true,
+        "venue": {
+         "id": "24490"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
+        "conferenceId": "21"
+       },
+       "score": "23",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "4-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 3
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        }
+       ],
+       "curatedRank": {
+        "current": 1
+       }
+      },
+      {
+       "id": "2460",
+       "uid": "s:20~l:23~t:2460",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "2460",
+        "uid": "s:20~l:23~t:2460",
+        "location": "Northern Iowa",
+        "name": "Panthers",
+        "abbreviation": "UNI",
+        "displayName": "Northern Iowa Panthers",
+        "shortDisplayName": "Northern Iowa",
+        "color": "4b116f",
+        "alternateColor": "ffcc00",
+        "isActive": true,
+        "venue": {
+         "id": "24600"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png",
+        "conferenceId": "21"
+       },
+       "score": "20",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        }
+       ],
+       "curatedRank": {
+        "current": 14
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "2:30",
+      "period": 4,
+      "type": {
+       "id": "2",
+       "name": "STATUS_IN_PROGRESS",
+       "state": "in",
+       "completed": false,
+       "description": "In Progress",
+       "detail": "2:30 - 4th Quarter",
+       "shortDetail": "2:30 - 4th"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN+"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T19:00Z",
+     "broadcast": "ESPN+",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN+"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401850003/northern-iowa-north-dakota-state",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "2:30",
+    "period": 4,
+    "type": {
+     "id": "2",
+     "name": "STATUS_IN_PROGRESS",
+     "state": "in",
+     "completed": false,
+     "description": "In Progress",
+     "detail": "2:30 - 4th Quarter",
+     "shortDetail": "2:30 - 4th"
+    }
+   }
+  },
+  {
+   "id": "401850004",
+   "uid": "s:20~l:23~e:401850004~c:401850004",
+   "date": "2026-09-26T23:00Z",
+   "name": "South Dakota Coyotes at South Dakota State Jackrabbits",
+   "shortName": "SDAK @ SDST",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401850004",
+     "uid": "s:20~l:23~e:401850004~c:401850004",
+     "date": "2026-09-26T23:00Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018500049",
+      "fullName": "Dana J. Dykhouse Stadium",
+      "address": {
+       "city": "Brookings",
+       "state": "SD",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "2571",
+       "uid": "s:20~l:23~t:2571",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "2571",
+        "uid": "s:20~l:23~t:2571",
+        "location": "South Dakota State",
+        "name": "Jackrabbits",
+        "abbreviation": "SDST",
+        "displayName": "South Dakota State Jackrabbits",
+        "shortDisplayName": "South Dakota State",
+        "color": "0033a0",
+        "alternateColor": "ffd100",
+        "isActive": true,
+        "venue": {
+         "id": "25710"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2571.png",
+        "conferenceId": "21"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 2
+       }
+      },
+      {
+       "id": "233",
+       "uid": "s:20~l:23~t:233",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "233",
+        "uid": "s:20~l:23~t:233",
+        "location": "South Dakota",
+        "name": "Coyotes",
+        "abbreviation": "SDAK",
+        "displayName": "South Dakota Coyotes",
+        "shortDisplayName": "South Dakota",
+        "color": "ad0000",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "2330"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/233.png",
+        "conferenceId": "21"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "Sat, September 26th at 7:00 PM EDT",
+       "shortDetail": "9/26 - 7:00 PM EDT"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN+"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T23:00Z",
+     "broadcast": "ESPN+",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN+"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "odds": [
+      {
+       "provider": {
+        "id": "58",
+        "name": "ESPN BET",
+        "priority": 1
+       },
+       "details": "SDST -13.5",
+       "overUnder": 44.5,
+       "spread": 0
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401850004/south-dakota-south-dakota-state",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 0,
+    "type": {
+     "id": "1",
+     "name": "STATUS_SCHEDULED",
+     "state": "pre",
+     "completed": false,
+     "description": "Scheduled",
+     "detail": "Sat, September 26th at 7:00 PM EDT",
+     "shortDetail": "9/26 - 7:00 PM EDT"
+    }
+   }
+  },
+  {
+   "id": "401850005",
+   "uid": "s:20~l:23~e:401850005~c:401850005",
+   "date": "2026-09-26T22:00Z",
+   "name": "Villanova Wildcats at William & Mary Tribe",
+   "shortName": "NOVA @ W&M",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401850005",
+     "uid": "s:20~l:23~e:401850005~c:401850005",
+     "date": "2026-09-26T22:00Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018500059",
+      "fullName": "Zable Stadium",
+      "address": {
+       "city": "Williamsburg",
+       "state": "VA",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "2729",
+       "uid": "s:20~l:23~t:2729",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "2729",
+        "uid": "s:20~l:23~t:2729",
+        "location": "William & Mary",
+        "name": "Tribe",
+        "abbreviation": "W&M",
+        "displayName": "William & Mary Tribe",
+        "shortDisplayName": "William & Mary",
+        "color": "115740",
+        "alternateColor": "b9975b",
+        "isActive": true,
+        "venue": {
+         "id": "27290"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2729.png",
+        "conferenceId": "48"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "222",
+       "uid": "s:20~l:23~t:222",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "222",
+        "uid": "s:20~l:23~t:222",
+        "location": "Villanova",
+        "name": "Wildcats",
+        "abbreviation": "NOVA",
+        "displayName": "Villanova Wildcats",
+        "shortDisplayName": "Villanova",
+        "color": "00205b",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "2220"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
+        "conferenceId": "48"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 9
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "Sat, September 26th at 6:00 PM EDT",
+       "shortDetail": "9/26 - 6:00 PM EDT"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "FloFootball"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T22:00Z",
+     "broadcast": "FloFootball",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "FloFootball"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401850005/villanova-william-mary",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 0,
+    "type": {
+     "id": "1",
+     "name": "STATUS_SCHEDULED",
+     "state": "pre",
+     "completed": false,
+     "description": "Scheduled",
+     "detail": "Sat, September 26th at 6:00 PM EDT",
+     "shortDetail": "9/26 - 6:00 PM EDT"
+    }
+   }
+  }
+ ]
+}

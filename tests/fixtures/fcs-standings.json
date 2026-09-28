@@ -1,0 +1,46 @@
+{
+ "uid": "s:20~l:23~g:81",
+ "id": "81",
+ "name": "NCAA Division I-AA",
+ "abbreviation": "NCAA I-AA",
+ "shortName": "FCS",
+ "children": [
+  {
+   "uid": "s:20~l:23~g:20",
+   "id": "20",
+   "name": "Big Sky Conference",
+   "abbreviation": "Big Sky",
+   "standings": {
+    "id": "0",
+    "name": "Big Sky Conference",
+    "entries": []
+   }
+  },
+  {
+   "uid": "s:20~l:23~g:21",
+   "id": "21",
+   "name": "Missouri Valley Football Conference",
+   "abbreviation": "MVFC",
+   "standings": {
+    "id": "0",
+    "name": "MVFC",
+    "entries": []
+   }
+  },
+  {
+   "uid": "s:20~l:23~g:48",
+   "id": "48",
+   "name": "Coastal Athletic Association Football Conference",
+   "abbreviation": "CAA",
+   "children": [
+    {
+     "id": "4801",
+     "name": "CAA North"
+    }
+   ],
+   "standings": {
+    "entries": []
+   }
+  }
+ ]
+}

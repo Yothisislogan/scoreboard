@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Gridiron Scoreboard</title>
+    <meta
+      name="description"
+      content="Live NFL and college football scores with Top 25, conference and division filters, plus favorite matchups."
+    />
+    <meta name="theme-color" content="#0b1220" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" href="assets/img/icon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="preconnect" href="https://site.api.espn.com" crossorigin />
+    <link rel="preconnect" href="https://a.espncdn.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&display=swap" />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <script>
+      // Apply a saved theme before first paint to avoid a flash.
+      try {
+        var savedTheme = localStorage.getItem('gridiron.theme');
+        if (savedTheme === 'light' || savedTheme === 'dark') document.documentElement.dataset.theme = savedTheme;
+      } catch (e) {}
+    </script>
+    <script type="module" src="assets/js/app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#games">Skip to games</a>
+
+    <header class="topbar">
+      <div class="topbar__inner">
+        <a class="brand" href="#" data-action="home" aria-label="Gridiron Scoreboard, back to this week's games">
+          <svg class="brand__mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
+            <defs>
+              <linearGradient id="brand-turf" x1="0" y1="0" x2="1" y2="1">
+                <stop offset="0" stop-color="#34d399" />
+                <stop offset="1" stop-color="#059669" />
+              </linearGradient>
+            </defs>
+            <rect width="32" height="32" rx="9" fill="url(#brand-turf)" />
+            <ellipse cx="16" cy="16" rx="10.5" ry="6.6" transform="rotate(-40 16 16)" fill="#fff" />
+            <path
+              d="M12.4 19.6l7.2-7.2M14.3 15.7l2 2M16.1 13.9l2 2M12.5 17.5l2 2"
+              stroke="#059669"
+              stroke-width="1.6"
+              stroke-linecap="round"
+            />
+          </svg>
+          <span class="brand__name">Gridiron</span>
+        </a>
+
+        <div class="league-switch" role="group" aria-label="League">
+          <button type="button" class="league-switch__btn" data-action="league" data-league="nfl" aria-pressed="false">
+            NFL
+          </button>
+          <button type="button" class="league-switch__btn" data-action="league" data-league="college" aria-pressed="false">
+            College
+          </button>
+        </div>
+
+        <div class="topbar__actions">
+          <span class="updated" id="updated"></span>
+          <button type="button" class="icon-btn" id="refresh-btn" data-action="refresh" data-icon="refresh" aria-label="Refresh scores" title="Refresh scores"></button>
+          <button type="button" class="icon-btn" id="theme-btn" data-action="theme" aria-label="Switch theme"></button>
+        </div>
+      </div>
+    </header>
+
+    <div class="layout" id="layout">
+      <div class="page-head">
+        <div class="page-head__text">
+          <p class="page-head__eyebrow" id="page-eyebrow">&nbsp;</p>
+          <h1 class="page-head__title" id="page-title">Scoreboard</h1>
+          <p class="page-head__sub" id="page-sub">Loading schedule…</p>
+        </div>
+        <div class="week-nav">
+          <button type="button" class="icon-btn icon-btn--soft" id="week-prev" data-action="week-prev" data-icon="chevronLeft" aria-label="Previous week" title="Previous week"></button>
+          <label class="sr-only" for="week-select">Week</label>
+          <select id="week-select" class="select week-nav__select" data-control="week"></select>
+          <button type="button" class="icon-btn icon-btn--soft" id="week-next" data-action="week-next" data-icon="chevronRight" aria-label="Next week" title="Next week"></button>
+          <button type="button" class="btn btn--small btn--primary" id="week-current" data-action="week-current" hidden>This week</button>
+        </div>
+      </div>
+
+      <nav class="sidebar" id="sidebar" aria-label="Game groups"></nav>
+
+      <main class="main" id="main">
+        <div class="toolbar">
+          <div class="search" data-icon="search">
+            <label class="sr-only" for="search">Search teams</label>
+            <input
+              id="search"
+              class="search__input"
+              type="search"
+              placeholder="Search teams"
+              autocomplete="off"
+              spellcheck="false"
+              enterkeyhint="search"
+            />
+            <kbd class="search__kbd" aria-hidden="true" title="Press / to search">/</kbd>
+            <button type="button" class="search__clear" id="search-clear" data-action="clear-search" data-icon="close" aria-label="Clear search" hidden></button>
+          </div>
+          <div class="segmented" id="status-tabs" role="group" aria-label="Game status"></div>
+        </div>
+
+        <div class="options" id="options">
+          <button type="button" class="btn btn--small options__toggle" id="options-toggle" data-action="toggle-options" data-icon="sliders" aria-expanded="false" aria-controls="options-body">
+            More filters <span class="options__count" id="options-count"></span>
+          </button>
+          <div class="options__body" id="options-body">
+            <label class="field">
+              <span class="field__label">TV</span>
+              <select id="network-select" class="select select--small" data-control="network"></select>
+            </label>
+            <label class="field">
+              <span class="field__label">Group by</span>
+              <select id="group-select" class="select select--small" data-control="group"></select>
+            </label>
+            <label class="field">
+              <span class="field__label">Sort</span>
+              <select id="sort-select" class="select select--small" data-control="sort"></select>
+            </label>
+          </div>
+          <p class="options__summary" id="result-summary"></p>
+        </div>
+
+        <div id="banner"></div>
+        <div id="favorites-panel"></div>
+        <div class="games" id="games" tabindex="-1"></div>
+        <div id="byes"></div>
+      </main>
+
+      <aside class="rail" id="rail" aria-label="Rankings"></aside>
+    </div>
+
+    <footer class="site-footer">
+      <p>
+        Scores and schedules from ESPN, refreshed automatically while games are live. Times are in your time zone<span id="time-zone"></span>.
+        Not affiliated with ESPN, the NFL or the NCAA.
+      </p>
+    </footer>
+
+    <dialog class="sheet" id="game-dialog" aria-labelledby="dialog-title">
+      <div class="sheet__body" id="dialog-body"></div>
+    </dialog>
+
+    <noscript><p class="noscript">This scoreboard needs JavaScript to load live scores.</p></noscript>
+  </body>
+</html>

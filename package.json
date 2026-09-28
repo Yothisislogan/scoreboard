@@ -1,0 +1,15 @@
+{
+  "name": "gridiron-scoreboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Live NFL and college football scoreboard with Top 25, conference, and favorite-matchup filters.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

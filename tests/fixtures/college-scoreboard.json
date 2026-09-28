@@ -1,0 +1,7912 @@
+{
+ "leagues": [
+  {
+   "id": "23",
+   "uid": "s:20~l:23",
+   "name": "NCAA - Football",
+   "abbreviation": "NCAAF",
+   "midsizeName": "NCAAF",
+   "slug": "college-football",
+   "season": {
+    "year": 2026,
+    "startDate": "2026-07-01T07:00Z",
+    "endDate": "2027-01-21T07:59Z",
+    "displayName": "2026",
+    "type": {
+     "id": "2",
+     "type": 2,
+     "name": "Regular Season",
+     "abbreviation": "reg"
+    }
+   },
+   "logos": [],
+   "calendarType": "list",
+   "calendarIsWhitelist": true,
+   "calendarStartDate": "2026-07-01T07:00Z",
+   "calendarEndDate": "2027-01-21T07:59Z",
+   "calendar": [
+    {
+     "label": "Regular Season",
+     "value": "2",
+     "startDate": "2026-08-29T07:00Z",
+     "endDate": "2026-12-15T06:59Z",
+     "entries": [
+      {
+       "label": "Week 1",
+       "alternateLabel": "Week 1",
+       "detail": "Aug 29-Sep 7",
+       "value": "1",
+       "startDate": "2026-08-29T07:00Z",
+       "endDate": "2026-09-08T06:59Z"
+      },
+      {
+       "label": "Week 2",
+       "alternateLabel": "Week 2",
+       "detail": "Sep 8-Sep 14",
+       "value": "2",
+       "startDate": "2026-09-08T07:00Z",
+       "endDate": "2026-09-15T06:59Z"
+      },
+      {
+       "label": "Week 3",
+       "alternateLabel": "Week 3",
+       "detail": "Sep 15-Sep 21",
+       "value": "3",
+       "startDate": "2026-09-15T07:00Z",
+       "endDate": "2026-09-22T06:59Z"
+      },
+      {
+       "label": "Week 4",
+       "alternateLabel": "Week 4",
+       "detail": "Sep 22-Sep 28",
+       "value": "4",
+       "startDate": "2026-09-22T07:00Z",
+       "endDate": "2026-09-29T06:59Z"
+      },
+      {
+       "label": "Week 5",
+       "alternateLabel": "Week 5",
+       "detail": "Sep 29-Oct 5",
+       "value": "5",
+       "startDate": "2026-09-29T07:00Z",
+       "endDate": "2026-10-06T06:59Z"
+      },
+      {
+       "label": "Week 6",
+       "alternateLabel": "Week 6",
+       "detail": "Oct 6-Oct 12",
+       "value": "6",
+       "startDate": "2026-10-06T07:00Z",
+       "endDate": "2026-10-13T06:59Z"
+      },
+      {
+       "label": "Week 7",
+       "alternateLabel": "Week 7",
+       "detail": "Oct 13-Oct 19",
+       "value": "7",
+       "startDate": "2026-10-13T07:00Z",
+       "endDate": "2026-10-20T06:59Z"
+      },
+      {
+       "label": "Week 8",
+       "alternateLabel": "Week 8",
+       "detail": "Oct 20-Oct 26",
+       "value": "8",
+       "startDate": "2026-10-20T07:00Z",
+       "endDate": "2026-10-27T06:59Z"
+      },
+      {
+       "label": "Week 9",
+       "alternateLabel": "Week 9",
+       "detail": "Oct 27-Nov 2",
+       "value": "9",
+       "startDate": "2026-10-27T07:00Z",
+       "endDate": "2026-11-03T06:59Z"
+      },
+      {
+       "label": "Week 10",
+       "alternateLabel": "Week 10",
+       "detail": "Nov 3-Nov 9",
+       "value": "10",
+       "startDate": "2026-11-03T07:00Z",
+       "endDate": "2026-11-10T06:59Z"
+      },
+      {
+       "label": "Week 11",
+       "alternateLabel": "Week 11",
+       "detail": "Nov 10-Nov 16",
+       "value": "11",
+       "startDate": "2026-11-10T07:00Z",
+       "endDate": "2026-11-17T06:59Z"
+      },
+      {
+       "label": "Week 12",
+       "alternateLabel": "Week 12",
+       "detail": "Nov 17-Nov 23",
+       "value": "12",
+       "startDate": "2026-11-17T07:00Z",
+       "endDate": "2026-11-24T06:59Z"
+      },
+      {
+       "label": "Week 13",
+       "alternateLabel": "Week 13",
+       "detail": "Nov 24-Nov 30",
+       "value": "13",
+       "startDate": "2026-11-24T07:00Z",
+       "endDate": "2026-12-01T06:59Z"
+      },
+      {
+       "label": "Week 14",
+       "alternateLabel": "Week 14",
+       "detail": "Dec 1-Dec 7",
+       "value": "14",
+       "startDate": "2026-12-01T07:00Z",
+       "endDate": "2026-12-08T06:59Z"
+      },
+      {
+       "label": "Week 15",
+       "alternateLabel": "Week 15",
+       "detail": "Dec 8-Dec 14",
+       "value": "15",
+       "startDate": "2026-12-08T07:00Z",
+       "endDate": "2026-12-15T06:59Z"
+      }
+     ]
+    },
+    {
+     "label": "Postseason",
+     "value": "3",
+     "startDate": "2026-12-15T08:00Z",
+     "endDate": "2027-01-21T07:59Z",
+     "entries": [
+      {
+       "label": "Bowls",
+       "alternateLabel": "Bowls",
+       "detail": "Dec 15-Jan 20",
+       "value": "1",
+       "startDate": "2026-12-15T08:00Z",
+       "endDate": "2027-01-21T07:59Z"
+      }
+     ]
+    },
+    {
+     "label": "Off Season",
+     "value": "4",
+     "startDate": "2027-01-21T08:00Z",
+     "endDate": "2027-07-01T06:59Z",
+     "entries": [
+      {
+       "label": "What's Next",
+       "alternateLabel": "What's Next",
+       "detail": "Jan 21-Jul 1",
+       "value": "1",
+       "startDate": "2027-01-21T08:00Z",
+       "endDate": "2027-07-01T06:59Z"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "season": {
+  "type": 2,
+  "year": 2026
+ },
+ "week": {
+  "number": 4
+ },
+ "events": [
+  {
+   "id": "401800001",
+   "uid": "s:20~l:23~e:401800001~c:401800001",
+   "date": "2026-09-24T23:30Z",
+   "name": "Georgia Tech Yellow Jackets at Louisville Cardinals",
+   "shortName": "GT @ LOU",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800001",
+     "uid": "s:20~l:23~e:401800001~c:401800001",
+     "date": "2026-09-24T23:30Z",
+     "attendance": 61234,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000019",
+      "fullName": "L&N Federal Credit Union Stadium",
+      "address": {
+       "city": "Louisville",
+       "state": "KY",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "97",
+       "uid": "s:20~l:23~t:97",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "97",
+        "uid": "s:20~l:23~t:97",
+        "location": "Louisville",
+        "name": "Cardinals",
+        "abbreviation": "LOU",
+        "displayName": "Louisville Cardinals",
+        "shortDisplayName": "Louisville",
+        "color": "c9001f",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "970"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+        "conferenceId": "1"
+       },
+       "score": "31",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "4-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": true,
+       "curatedRank": {
+        "current": 17
+       }
+      },
+      {
+       "id": "59",
+       "uid": "s:20~l:23~t:59",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "59",
+        "uid": "s:20~l:23~t:59",
+        "location": "Georgia Tech",
+        "name": "Yellow Jackets",
+        "abbreviation": "GT",
+        "displayName": "Georgia Tech Yellow Jackets",
+        "shortDisplayName": "Georgia Tech",
+        "color": "003057",
+        "alternateColor": "b3a369",
+        "isActive": true,
+        "venue": {
+         "id": "590"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+        "conferenceId": "1"
+       },
+       "score": "24",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-2"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-1"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": false,
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-24T23:30Z",
+     "broadcast": "ESPN",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800001/georgia-tech-louisville",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401800002",
+   "uid": "s:20~l:23~e:401800002~c:401800002",
+   "date": "2026-09-26T00:00Z",
+   "name": "Rutgers Scarlet Knights at Maryland Terrapins",
+   "shortName": "RUTG @ MD",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800002",
+     "uid": "s:20~l:23~e:401800002~c:401800002",
+     "date": "2026-09-26T00:00Z",
+     "attendance": 61234,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000029",
+      "fullName": "SECU Stadium",
+      "address": {
+       "city": "College Park",
+       "state": "MD",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "120",
+       "uid": "s:20~l:23~t:120",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "120",
+        "uid": "s:20~l:23~t:120",
+        "location": "Maryland",
+        "name": "Terrapins",
+        "abbreviation": "MD",
+        "displayName": "Maryland Terrapins",
+        "shortDisplayName": "Maryland",
+        "color": "e03a3e",
+        "alternateColor": "ffd520",
+        "isActive": true,
+        "venue": {
+         "id": "1200"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+        "conferenceId": "5"
+       },
+       "score": "20",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-2"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-1"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 0
+        }
+       ],
+       "winner": false,
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "164",
+       "uid": "s:20~l:23~t:164",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "164",
+        "uid": "s:20~l:23~t:164",
+        "location": "Rutgers",
+        "name": "Scarlet Knights",
+        "abbreviation": "RUTG",
+        "displayName": "Rutgers Scarlet Knights",
+        "shortDisplayName": "Rutgers",
+        "color": "cc0033",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "1640"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
+        "conferenceId": "5"
+       },
+       "score": "23",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        }
+       ],
+       "winner": true,
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 5,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final/OT",
+       "shortDetail": "Final/OT"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "FOX"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T00:00Z",
+     "broadcast": "FOX",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "FOX"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800002/rutgers-maryland",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 5,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final/OT",
+     "shortDetail": "Final/OT"
+    }
+   }
+  },
+  {
+   "id": "401800003",
+   "uid": "s:20~l:23~e:401800003~c:401800003",
+   "date": "2026-09-26T02:30Z",
+   "name": "Boise State Broncos at San Diego State Aztecs",
+   "shortName": "BSU @ SDSU",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800003",
+     "uid": "s:20~l:23~e:401800003~c:401800003",
+     "date": "2026-09-26T02:30Z",
+     "attendance": 61234,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000039",
+      "fullName": "Snapdragon Stadium",
+      "address": {
+       "city": "San Diego",
+       "state": "CA",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "21",
+       "uid": "s:20~l:23~t:21",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "21",
+        "uid": "s:20~l:23~t:21",
+        "location": "San Diego State",
+        "name": "Aztecs",
+        "abbreviation": "SDSU",
+        "displayName": "San Diego State Aztecs",
+        "shortDisplayName": "San Diego State",
+        "color": "a6192e",
+        "alternateColor": "000000",
+        "isActive": true,
+        "venue": {
+         "id": "210"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
+        "conferenceId": "9"
+       },
+       "score": "20",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "1-3"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-1"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 3
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 0
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": false,
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "68",
+       "uid": "s:20~l:23~t:68",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "68",
+        "uid": "s:20~l:23~t:68",
+        "location": "Boise State",
+        "name": "Broncos",
+        "abbreviation": "BSU",
+        "displayName": "Boise State Broncos",
+        "shortDisplayName": "Boise State",
+        "color": "0033a0",
+        "alternateColor": "d64309",
+        "isActive": true,
+        "venue": {
+         "id": "680"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/68.png",
+        "conferenceId": "9"
+       },
+       "score": "38",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 14
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": true,
+       "curatedRank": {
+        "current": 24
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "FS1"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T02:30Z",
+     "broadcast": "FS1",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "FS1"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800003/boise-state-san-diego-state",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401800004",
+   "uid": "s:20~l:23~e:401800004~c:401800004",
+   "date": "2026-09-26T16:00Z",
+   "name": "Oklahoma Sooners at Auburn Tigers",
+   "shortName": "OU @ AUB",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800004",
+     "uid": "s:20~l:23~e:401800004~c:401800004",
+     "date": "2026-09-26T16:00Z",
+     "attendance": 61234,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000049",
+      "fullName": "Jordan-Hare Stadium",
+      "address": {
+       "city": "Auburn",
+       "state": "AL",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "2",
+       "uid": "s:20~l:23~t:2",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "2",
+        "uid": "s:20~l:23~t:2",
+        "location": "Auburn",
+        "name": "Tigers",
+        "abbreviation": "AUB",
+        "displayName": "Auburn Tigers",
+        "shortDisplayName": "Auburn",
+        "color": "0c2340",
+        "alternateColor": "e87722",
+        "isActive": true,
+        "venue": {
+         "id": "20"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+        "conferenceId": "8"
+       },
+       "score": "24",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-2"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-2"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 0
+        },
+        {
+         "value": 14
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        }
+       ],
+       "winner": false,
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "201",
+       "uid": "s:20~l:23~t:201",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "201",
+        "uid": "s:20~l:23~t:201",
+        "location": "Oklahoma",
+        "name": "Sooners",
+        "abbreviation": "OU",
+        "displayName": "Oklahoma Sooners",
+        "shortDisplayName": "Oklahoma",
+        "color": "841617",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "2010"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+        "conferenceId": "8"
+       },
+       "score": "27",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": true,
+       "curatedRank": {
+        "current": 14
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T16:00Z",
+     "broadcast": "ESPN",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "leaders": [
+      {
+       "name": "passingYards",
+       "displayName": "Passing Leader",
+       "shortDisplayName": "PASS",
+       "abbreviation": "PASS",
+       "leaders": [
+        {
+         "displayValue": "24/33, 281 YDS, 2 TD",
+         "value": 0,
+         "athlete": {
+          "id": "1",
+          "fullName": "John Mateer",
+          "displayName": "John Mateer",
+          "shortName": "J. Mateer",
+          "position": {
+           "abbreviation": "QB"
+          },
+          "team": {
+           "id": "201"
+          }
+         },
+         "team": {
+          "id": "201"
+         }
+        }
+       ]
+      },
+      {
+       "name": "rushingYards",
+       "displayName": "Rushing Leader",
+       "shortDisplayName": "RUSH",
+       "abbreviation": "RUSH",
+       "leaders": [
+        {
+         "displayValue": "19 CAR, 104 YDS",
+         "value": 0,
+         "athlete": {
+          "id": "1",
+          "fullName": "Jaylen Rhodes",
+          "displayName": "Jaylen Rhodes",
+          "shortName": "J. Rhodes",
+          "position": {
+           "abbreviation": "RB"
+          },
+          "team": {
+           "id": "2"
+          }
+         },
+         "team": {
+          "id": "2"
+         }
+        }
+       ]
+      },
+      {
+       "name": "receivingYards",
+       "displayName": "Receiving Leader",
+       "shortDisplayName": "REC",
+       "abbreviation": "REC",
+       "leaders": [
+        {
+         "displayValue": "7 REC, 118 YDS, 1 TD",
+         "value": 0,
+         "athlete": {
+          "id": "1",
+          "fullName": "Isaiah Sategna",
+          "displayName": "Isaiah Sategna",
+          "shortName": "I. Sategna",
+          "position": {
+           "abbreviation": "WR"
+          },
+          "team": {
+           "id": "201"
+          }
+         },
+         "team": {
+          "id": "201"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800004/oklahoma-auburn",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401800005",
+   "uid": "s:20~l:23~e:401800005~c:401800005",
+   "date": "2026-09-26T16:00Z",
+   "name": "Purdue Boilermakers at Ohio State Buckeyes",
+   "shortName": "PUR @ OSU",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800005",
+     "uid": "s:20~l:23~e:401800005~c:401800005",
+     "date": "2026-09-26T16:00Z",
+     "attendance": 104812,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000059",
+      "fullName": "Ohio Stadium",
+      "address": {
+       "city": "Columbus",
+       "state": "OH",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "194",
+       "uid": "s:20~l:23~t:194",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "194",
+        "uid": "s:20~l:23~t:194",
+        "location": "Ohio State",
+        "name": "Buckeyes",
+        "abbreviation": "OSU",
+        "displayName": "Ohio State Buckeyes",
+        "shortDisplayName": "Ohio State",
+        "color": "ba0c2f",
+        "alternateColor": "666666",
+        "isActive": true,
+        "venue": {
+         "id": "1940"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+        "conferenceId": "5"
+       },
+       "score": "45",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "4-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 14
+        },
+        {
+         "value": 17
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": true,
+       "curatedRank": {
+        "current": 2
+       }
+      },
+      {
+       "id": "2509",
+       "uid": "s:20~l:23~t:2509",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "2509",
+        "uid": "s:20~l:23~t:2509",
+        "location": "Purdue",
+        "name": "Boilermakers",
+        "abbreviation": "PUR",
+        "displayName": "Purdue Boilermakers",
+        "shortDisplayName": "Purdue",
+        "color": "cfb991",
+        "alternateColor": "000000",
+        "isActive": true,
+        "venue": {
+         "id": "25090"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+        "conferenceId": "5"
+       },
+       "score": "7",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "1-3"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-1"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 0
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 0
+        },
+        {
+         "value": 0
+        }
+       ],
+       "winner": false,
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "FOX"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T16:00Z",
+     "broadcast": "FOX",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "FOX"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "leaders": [
+      {
+       "name": "passingYards",
+       "displayName": "Passing Leader",
+       "shortDisplayName": "PASS",
+       "abbreviation": "PASS",
+       "leaders": [
+        {
+         "displayValue": "21/26, 302 YDS, 4 TD",
+         "value": 0,
+         "athlete": {
+          "id": "1",
+          "fullName": "Julian Sayin",
+          "displayName": "Julian Sayin",
+          "shortName": "J. Sayin",
+          "position": {
+           "abbreviation": "QB"
+          },
+          "team": {
+           "id": "194"
+          }
+         },
+         "team": {
+          "id": "194"
+         }
+        }
+       ]
+      },
+      {
+       "name": "rushingYards",
+       "displayName": "Rushing Leader",
+       "shortDisplayName": "RUSH",
+       "abbreviation": "RUSH",
+       "leaders": [
+        {
+         "displayValue": "14 CAR, 96 YDS, 1 TD",
+         "value": 0,
+         "athlete": {
+          "id": "1",
+          "fullName": "Bo Jackson",
+          "displayName": "Bo Jackson",
+          "shortName": "B. Jackson",
+          "position": {
+           "abbreviation": "RB"
+          },
+          "team": {
+           "id": "194"
+          }
+         },
+         "team": {
+          "id": "194"
+         }
+        }
+       ]
+      },
+      {
+       "name": "receivingYards",
+       "displayName": "Receiving Leader",
+       "shortDisplayName": "REC",
+       "abbreviation": "REC",
+       "leaders": [
+        {
+         "displayValue": "8 REC, 141 YDS, 2 TD",
+         "value": 0,
+         "athlete": {
+          "id": "1",
+          "fullName": "Jeremiah Smith",
+          "displayName": "Jeremiah Smith",
+          "shortName": "J. Smith",
+          "position": {
+           "abbreviation": "WR"
+          },
+          "team": {
+           "id": "194"
+          }
+         },
+         "team": {
+          "id": "194"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800005/purdue-ohio-state",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401800006",
+   "uid": "s:20~l:23~e:401800006~c:401800006",
+   "date": "2026-09-26T16:00Z",
+   "name": "Iowa State Cyclones at Kansas State Wildcats",
+   "shortName": "ISU @ KSU",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800006",
+     "uid": "s:20~l:23~e:401800006~c:401800006",
+     "date": "2026-09-26T16:00Z",
+     "attendance": 61234,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000069",
+      "fullName": "Bill Snyder Family Stadium",
+      "address": {
+       "city": "Manhattan",
+       "state": "KS",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "2306",
+       "uid": "s:20~l:23~t:2306",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "2306",
+        "uid": "s:20~l:23~t:2306",
+        "location": "Kansas State",
+        "name": "Wildcats",
+        "abbreviation": "KSU",
+        "displayName": "Kansas State Wildcats",
+        "shortDisplayName": "Kansas State",
+        "color": "512888",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "23060"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
+        "conferenceId": "4"
+       },
+       "score": "17",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-2"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-1"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 0
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        }
+       ],
+       "winner": false,
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "66",
+       "uid": "s:20~l:23~t:66",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "66",
+        "uid": "s:20~l:23~t:66",
+        "location": "Iowa State",
+        "name": "Cyclones",
+        "abbreviation": "ISU",
+        "displayName": "Iowa State Cyclones",
+        "shortDisplayName": "Iowa State",
+        "color": "822433",
+        "alternateColor": "f1be48",
+        "isActive": true,
+        "venue": {
+         "id": "660"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+        "conferenceId": "4"
+       },
+       "score": "20",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "4-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "2-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": true,
+       "curatedRank": {
+        "current": 23
+       }
+      }
+     ],
+     "notes": [
+      {
+       "type": "event",
+       "headline": "Farmageddon"
+      }
+     ],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "FS1"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T16:00Z",
+     "broadcast": "FS1",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "FS1"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800006/iowa-state-kansas-state",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401800007",
+   "uid": "s:20~l:23~e:401800007~c:401800007",
+   "date": "2026-09-26T16:00Z",
+   "name": "Boston College Eagles at Clemson Tigers",
+   "shortName": "BC @ CLEM",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800007",
+     "uid": "s:20~l:23~e:401800007~c:401800007",
+     "date": "2026-09-26T16:00Z",
+     "attendance": 61234,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000079",
+      "fullName": "Memorial Stadium",
+      "address": {
+       "city": "Clemson",
+       "state": "SC",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "228",
+       "uid": "s:20~l:23~t:228",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "228",
+        "uid": "s:20~l:23~t:228",
+        "location": "Clemson",
+        "name": "Tigers",
+        "abbreviation": "CLEM",
+        "displayName": "Clemson Tigers",
+        "shortDisplayName": "Clemson",
+        "color": "f56600",
+        "alternateColor": "522d80",
+        "isActive": true,
+        "venue": {
+         "id": "2280"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+        "conferenceId": "1"
+       },
+       "score": "38",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "2-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 10
+        },
+        {
+         "value": 14
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": true,
+       "curatedRank": {
+        "current": 8
+       }
+      },
+      {
+       "id": "103",
+       "uid": "s:20~l:23~t:103",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "103",
+        "uid": "s:20~l:23~t:103",
+        "location": "Boston College",
+        "name": "Eagles",
+        "abbreviation": "BC",
+        "displayName": "Boston College Eagles",
+        "shortDisplayName": "Boston College",
+        "color": "98002e",
+        "alternateColor": "bc9b6a",
+        "isActive": true,
+        "venue": {
+         "id": "1030"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
+        "conferenceId": "1"
+       },
+       "score": "14",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "1-3"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-2"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 0
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 0
+        }
+       ],
+       "winner": false,
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ACCN"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T16:00Z",
+     "broadcast": "ACCN",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ACCN"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800007/boston-college-clemson",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401800008",
+   "uid": "s:20~l:23~e:401800008~c:401800008",
+   "date": "2026-09-26T16:00Z",
+   "name": "Memphis Tigers at Tulane Green Wave",
+   "shortName": "MEM @ TULN",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800008",
+     "uid": "s:20~l:23~e:401800008~c:401800008",
+     "date": "2026-09-26T16:00Z",
+     "attendance": 61234,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000089",
+      "fullName": "Yulman Stadium",
+      "address": {
+       "city": "New Orleans",
+       "state": "LA",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "2655",
+       "uid": "s:20~l:23~t:2655",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "2655",
+        "uid": "s:20~l:23~t:2655",
+        "location": "Tulane",
+        "name": "Green Wave",
+        "abbreviation": "TULN",
+        "displayName": "Tulane Green Wave",
+        "shortDisplayName": "Tulane",
+        "color": "006747",
+        "alternateColor": "418fde",
+        "isActive": true,
+        "venue": {
+         "id": "26550"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2655.png",
+        "conferenceId": "151"
+       },
+       "score": "28",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-2"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-1"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 14
+        },
+        {
+         "value": 0
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": false,
+       "curatedRank": {
+        "current": 25
+       }
+      },
+      {
+       "id": "235",
+       "uid": "s:20~l:23~t:235",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "235",
+        "uid": "s:20~l:23~t:235",
+        "location": "Memphis",
+        "name": "Tigers",
+        "abbreviation": "MEM",
+        "displayName": "Memphis Tigers",
+        "shortDisplayName": "Memphis",
+        "color": "003087",
+        "alternateColor": "898d8d",
+        "isActive": true,
+        "venue": {
+         "id": "2350"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+        "conferenceId": "151"
+       },
+       "score": "31",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "4-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": true,
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN2"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T16:00Z",
+     "broadcast": "ESPN2",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN2"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800008/memphis-tulane",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401800009",
+   "uid": "s:20~l:23~e:401800009~c:401800009",
+   "date": "2026-09-26T16:00Z",
+   "name": "Kent State Golden Flashes at Toledo Rockets",
+   "shortName": "KENT @ TOL",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800009",
+     "uid": "s:20~l:23~e:401800009~c:401800009",
+     "date": "2026-09-26T16:00Z",
+     "attendance": 61234,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000099",
+      "fullName": "Glass Bowl",
+      "address": {
+       "city": "Toledo",
+       "state": "OH",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "2649",
+       "uid": "s:20~l:23~t:2649",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "2649",
+        "uid": "s:20~l:23~t:2649",
+        "location": "Toledo",
+        "name": "Rockets",
+        "abbreviation": "TOL",
+        "displayName": "Toledo Rockets",
+        "shortDisplayName": "Toledo",
+        "color": "15397f",
+        "alternateColor": "ffda00",
+        "isActive": true,
+        "venue": {
+         "id": "26490"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png",
+        "conferenceId": "15"
+       },
+       "score": "35",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 14
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": true,
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "2309",
+       "uid": "s:20~l:23~t:2309",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "2309",
+        "uid": "s:20~l:23~t:2309",
+        "location": "Kent State",
+        "name": "Golden Flashes",
+        "abbreviation": "KENT",
+        "displayName": "Kent State Golden Flashes",
+        "shortDisplayName": "Kent State",
+        "color": "002664",
+        "alternateColor": "eaab00",
+        "isActive": true,
+        "venue": {
+         "id": "23090"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2309.png",
+        "conferenceId": "15"
+       },
+       "score": "10",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "0-4"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-1"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 0
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 0
+        }
+       ],
+       "winner": false,
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN+"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T16:00Z",
+     "broadcast": "ESPN+",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN+"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800009/kent-state-toledo",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401800010",
+   "uid": "s:20~l:23~e:401800010~c:401800010",
+   "date": "2026-09-26T16:00Z",
+   "name": "Montana State Bobcats at New Mexico Lobos",
+   "shortName": "MTST @ UNM",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800010",
+     "uid": "s:20~l:23~e:401800010~c:401800010",
+     "date": "2026-09-26T16:00Z",
+     "attendance": 61234,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000109",
+      "fullName": "University Stadium",
+      "address": {
+       "city": "Albuquerque",
+       "state": "NM",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "167",
+       "uid": "s:20~l:23~t:167",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "167",
+        "uid": "s:20~l:23~t:167",
+        "location": "New Mexico",
+        "name": "Lobos",
+        "abbreviation": "UNM",
+        "displayName": "New Mexico Lobos",
+        "shortDisplayName": "New Mexico",
+        "color": "ba0c2f",
+        "alternateColor": "a7a8aa",
+        "isActive": true,
+        "venue": {
+         "id": "1670"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
+        "conferenceId": "17"
+       },
+       "score": "27",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "1-3"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 6
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": false,
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "147",
+       "uid": "s:20~l:23~t:147",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "147",
+        "uid": "s:20~l:23~t:147",
+        "location": "Montana State",
+        "name": "Bobcats",
+        "abbreviation": "MTST",
+        "displayName": "Montana State Bobcats",
+        "shortDisplayName": "Montana State",
+        "color": "003875",
+        "alternateColor": "b9975b",
+        "isActive": true,
+        "venue": {
+         "id": "1470"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
+        "conferenceId": "20"
+       },
+       "score": "30",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "4-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 10
+        },
+        {
+         "value": 3
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": true,
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN+"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T16:00Z",
+     "broadcast": "ESPN+",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN+"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800010/montana-state-new-mexico",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401800011",
+   "uid": "s:20~l:23~e:401800011~c:401800011",
+   "date": "2026-09-26T16:00Z",
+   "name": "Texas A&M Aggies at Arkansas Razorbacks",
+   "shortName": "TA&M @ ARK",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800011",
+     "uid": "s:20~l:23~e:401800011~c:401800011",
+     "date": "2026-09-26T16:00Z",
+     "attendance": 71844,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": true,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000119",
+      "fullName": "AT&T Stadium",
+      "address": {
+       "city": "Arlington",
+       "state": "TX",
+       "country": "USA"
+      },
+      "indoor": true
+     },
+     "competitors": [
+      {
+       "id": "8",
+       "uid": "s:20~l:23~t:8",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "8",
+        "uid": "s:20~l:23~t:8",
+        "location": "Arkansas",
+        "name": "Razorbacks",
+        "abbreviation": "ARK",
+        "displayName": "Arkansas Razorbacks",
+        "shortDisplayName": "Arkansas",
+        "color": "9d2235",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "80"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+        "conferenceId": "8"
+       },
+       "score": "31",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-2"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-2"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 10
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        }
+       ],
+       "winner": false,
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "245",
+       "uid": "s:20~l:23~t:245",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "245",
+        "uid": "s:20~l:23~t:245",
+        "location": "Texas A&M",
+        "name": "Aggies",
+        "abbreviation": "TA&M",
+        "displayName": "Texas A&M Aggies",
+        "shortDisplayName": "Texas A&M",
+        "color": "500000",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "2450"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
+        "conferenceId": "8"
+       },
+       "score": "34",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "1-1"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 10
+        },
+        {
+         "value": 7
+        },
+        {
+         "value": 10
+        }
+       ],
+       "winner": true,
+       "curatedRank": {
+        "current": 12
+       }
+      }
+     ],
+     "notes": [
+      {
+       "type": "event",
+       "headline": "Southwest Classic"
+      }
+     ],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 4,
+      "type": {
+       "id": "3",
+       "name": "STATUS_FINAL",
+       "state": "post",
+       "completed": true,
+       "description": "Final",
+       "detail": "Final",
+       "shortDetail": "Final"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "SECN"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T16:00Z",
+     "broadcast": "SECN",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "SECN"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800011/texas-a-m-arkansas",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 4,
+    "type": {
+     "id": "3",
+     "name": "STATUS_FINAL",
+     "state": "post",
+     "completed": true,
+     "description": "Final",
+     "detail": "Final",
+     "shortDetail": "Final"
+    }
+   }
+  },
+  {
+   "id": "401800012",
+   "uid": "s:20~l:23~e:401800012~c:401800012",
+   "date": "2026-09-26T19:30Z",
+   "name": "Georgia Bulldogs at Alabama Crimson Tide",
+   "shortName": "UGA @ ALA",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800012",
+     "uid": "s:20~l:23~e:401800012~c:401800012",
+     "date": "2026-09-26T19:30Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000129",
+      "fullName": "Bryant-Denny Stadium",
+      "address": {
+       "city": "Tuscaloosa",
+       "state": "AL",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "333",
+       "uid": "s:20~l:23~t:333",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "333",
+        "uid": "s:20~l:23~t:333",
+        "location": "Alabama",
+        "name": "Crimson Tide",
+        "abbreviation": "ALA",
+        "displayName": "Alabama Crimson Tide",
+        "shortDisplayName": "Alabama",
+        "color": "9e1632",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "3330"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+        "conferenceId": "8"
+       },
+       "score": "17",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 10
+        },
+        {
+         "value": 7
+        }
+       ],
+       "curatedRank": {
+        "current": 10
+       }
+      },
+      {
+       "id": "61",
+       "uid": "s:20~l:23~t:61",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "61",
+        "uid": "s:20~l:23~t:61",
+        "location": "Georgia",
+        "name": "Bulldogs",
+        "abbreviation": "UGA",
+        "displayName": "Georgia Bulldogs",
+        "shortDisplayName": "Georgia",
+        "color": "ba0c2f",
+        "alternateColor": "000000",
+        "isActive": true,
+        "venue": {
+         "id": "610"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+        "conferenceId": "8"
+       },
+       "score": "14",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        }
+       ],
+       "curatedRank": {
+        "current": 3
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "2:14",
+      "period": 2,
+      "type": {
+       "id": "2",
+       "name": "STATUS_IN_PROGRESS",
+       "state": "in",
+       "completed": false,
+       "description": "In Progress",
+       "detail": "2:14 - 2nd Quarter",
+       "shortDetail": "2:14 - 2nd"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ABC"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T19:30Z",
+     "broadcast": "ABC",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ABC"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "situation": {
+      "down": 2,
+      "yardLine": 14,
+      "distance": 6,
+      "downDistanceText": "2nd & 6 at ALA 14",
+      "shortDownDistanceText": "2nd & 6",
+      "possessionText": "ALA 14",
+      "isRedZone": true,
+      "homeTimeouts": 3,
+      "awayTimeouts": 2,
+      "possession": "61",
+      "lastPlay": {
+       "id": "1",
+       "type": {
+        "id": "24",
+        "text": "Pass Reception",
+        "abbreviation": "REC"
+       },
+       "text": "Gunner Stockton pass complete to Dillon Bell for 12 yds to the ALA 14.",
+       "scoreValue": 0,
+       "team": {
+        "id": "61"
+       },
+       "probability": {
+        "tiePercentage": 0,
+        "homeWinPercentage": 0.46,
+        "awayWinPercentage": 0.54
+       }
+      }
+     },
+     "leaders": [
+      {
+       "name": "passingYards",
+       "displayName": "Passing Leader",
+       "shortDisplayName": "PASS",
+       "abbreviation": "PASS",
+       "leaders": [
+        {
+         "displayValue": "13/19, 176 YDS, 1 TD",
+         "value": 0,
+         "athlete": {
+          "id": "1",
+          "fullName": "Gunner Stockton",
+          "displayName": "Gunner Stockton",
+          "shortName": "G. Stockton",
+          "position": {
+           "abbreviation": "QB"
+          },
+          "team": {
+           "id": "61"
+          }
+         },
+         "team": {
+          "id": "61"
+         }
+        }
+       ]
+      },
+      {
+       "name": "rushingYards",
+       "displayName": "Rushing Leader",
+       "shortDisplayName": "RUSH",
+       "abbreviation": "RUSH",
+       "leaders": [
+        {
+         "displayValue": "9 CAR, 61 YDS, 1 TD",
+         "value": 0,
+         "athlete": {
+          "id": "1",
+          "fullName": "Nate Frazier",
+          "displayName": "Nate Frazier",
+          "shortName": "N. Frazier",
+          "position": {
+           "abbreviation": "RB"
+          },
+          "team": {
+           "id": "61"
+          }
+         },
+         "team": {
+          "id": "61"
+         }
+        }
+       ]
+      },
+      {
+       "name": "receivingYards",
+       "displayName": "Receiving Leader",
+       "shortDisplayName": "REC",
+       "abbreviation": "REC",
+       "leaders": [
+        {
+         "displayValue": "4 REC, 77 YDS, 1 TD",
+         "value": 0,
+         "athlete": {
+          "id": "1",
+          "fullName": "Ryan Williams",
+          "displayName": "Ryan Williams",
+          "shortName": "R. Williams",
+          "position": {
+           "abbreviation": "WR"
+          },
+          "team": {
+           "id": "333"
+          }
+         },
+         "team": {
+          "id": "333"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800012/georgia-alabama",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "2:14",
+    "period": 2,
+    "type": {
+     "id": "2",
+     "name": "STATUS_IN_PROGRESS",
+     "state": "in",
+     "completed": false,
+     "description": "In Progress",
+     "detail": "2:14 - 2nd Quarter",
+     "shortDetail": "2:14 - 2nd"
+    }
+   }
+  },
+  {
+   "id": "401800013",
+   "uid": "s:20~l:23~e:401800013~c:401800013",
+   "date": "2026-09-26T19:30Z",
+   "name": "Penn State Nittany Lions at Michigan Wolverines",
+   "shortName": "PSU @ MICH",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800013",
+     "uid": "s:20~l:23~e:401800013~c:401800013",
+     "date": "2026-09-26T19:30Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000139",
+      "fullName": "Michigan Stadium",
+      "address": {
+       "city": "Ann Arbor",
+       "state": "MI",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "130",
+       "uid": "s:20~l:23~t:130",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "130",
+        "uid": "s:20~l:23~t:130",
+        "location": "Michigan",
+        "name": "Wolverines",
+        "abbreviation": "MICH",
+        "displayName": "Michigan Wolverines",
+        "shortDisplayName": "Michigan",
+        "color": "00274c",
+        "alternateColor": "ffcb05",
+        "isActive": true,
+        "venue": {
+         "id": "1300"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+        "conferenceId": "5"
+       },
+       "score": "10",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 3
+        }
+       ],
+       "curatedRank": {
+        "current": 13
+       }
+      },
+      {
+       "id": "213",
+       "uid": "s:20~l:23~t:213",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "213",
+        "uid": "s:20~l:23~t:213",
+        "location": "Penn State",
+        "name": "Nittany Lions",
+        "abbreviation": "PSU",
+        "displayName": "Penn State Nittany Lions",
+        "shortDisplayName": "Penn State",
+        "color": "061440",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "2130"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+        "conferenceId": "5"
+       },
+       "score": "10",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 3
+        },
+        {
+         "value": 7
+        }
+       ],
+       "curatedRank": {
+        "current": 5
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 2,
+      "type": {
+       "id": "23",
+       "name": "STATUS_HALFTIME",
+       "state": "in",
+       "completed": false,
+       "description": "Halftime",
+       "detail": "Halftime",
+       "shortDetail": "Halftime"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "CBS"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T19:30Z",
+     "broadcast": "CBS",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "CBS"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800013/penn-state-michigan",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 2,
+    "type": {
+     "id": "23",
+     "name": "STATUS_HALFTIME",
+     "state": "in",
+     "completed": false,
+     "description": "Halftime",
+     "detail": "Halftime",
+     "shortDetail": "Halftime"
+    }
+   }
+  },
+  {
+   "id": "401800014",
+   "uid": "s:20~l:23~e:401800014~c:401800014",
+   "date": "2026-09-26T19:30Z",
+   "name": "Arizona State Sun Devils at Utah Utes",
+   "shortName": "ASU @ UTAH",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800014",
+     "uid": "s:20~l:23~e:401800014~c:401800014",
+     "date": "2026-09-26T19:30Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000149",
+      "fullName": "Rice-Eccles Stadium",
+      "address": {
+       "city": "Salt Lake City",
+       "state": "UT",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "254",
+       "uid": "s:20~l:23~t:254",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "254",
+        "uid": "s:20~l:23~t:254",
+        "location": "Utah",
+        "name": "Utes",
+        "abbreviation": "UTAH",
+        "displayName": "Utah Utes",
+        "shortDisplayName": "Utah",
+        "color": "cc0000",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "2540"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+        "conferenceId": "4"
+       },
+       "score": "3",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 3
+        },
+        {
+         "value": 0
+        }
+       ],
+       "curatedRank": {
+        "current": 21
+       }
+      },
+      {
+       "id": "9",
+       "uid": "s:20~l:23~t:9",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "9",
+        "uid": "s:20~l:23~t:9",
+        "location": "Arizona State",
+        "name": "Sun Devils",
+        "abbreviation": "ASU",
+        "displayName": "Arizona State Sun Devils",
+        "shortDisplayName": "Arizona State",
+        "color": "8c1d40",
+        "alternateColor": "ffc627",
+        "isActive": true,
+        "venue": {
+         "id": "90"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+        "conferenceId": "4"
+       },
+       "score": "7",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 0
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "5:40",
+      "period": 2,
+      "type": {
+       "id": "2",
+       "name": "STATUS_IN_PROGRESS",
+       "state": "in",
+       "completed": false,
+       "description": "In Progress",
+       "detail": "5:40 - 2nd Quarter",
+       "shortDetail": "5:40 - 2nd"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "FOX"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T19:30Z",
+     "broadcast": "FOX",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "FOX"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "situation": {
+      "down": 1,
+      "yardLine": 75,
+      "distance": 10,
+      "downDistanceText": "1st & 10 at UTAH 25",
+      "shortDownDistanceText": "1st & 10",
+      "possessionText": "UTAH 25",
+      "isRedZone": false,
+      "homeTimeouts": 3,
+      "awayTimeouts": 2,
+      "possession": "254"
+     }
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800014/arizona-state-utah",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "5:40",
+    "period": 2,
+    "type": {
+     "id": "2",
+     "name": "STATUS_IN_PROGRESS",
+     "state": "in",
+     "completed": false,
+     "description": "In Progress",
+     "detail": "5:40 - 2nd Quarter",
+     "shortDetail": "5:40 - 2nd"
+    }
+   }
+  },
+  {
+   "id": "401800015",
+   "uid": "s:20~l:23~e:401800015~c:401800015",
+   "date": "2026-09-26T19:30Z",
+   "name": "Syracuse Orange at NC State Wolfpack",
+   "shortName": "SYR @ NCST",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800015",
+     "uid": "s:20~l:23~e:401800015~c:401800015",
+     "date": "2026-09-26T19:30Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000159",
+      "fullName": "Carter-Finley Stadium",
+      "address": {
+       "city": "Raleigh",
+       "state": "NC",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "152",
+       "uid": "s:20~l:23~t:152",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "152",
+        "uid": "s:20~l:23~t:152",
+        "location": "NC State",
+        "name": "Wolfpack",
+        "abbreviation": "NCST",
+        "displayName": "NC State Wolfpack",
+        "shortDisplayName": "NC State",
+        "color": "cc0000",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "1520"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
+        "conferenceId": "1"
+       },
+       "score": "7",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "183",
+       "uid": "s:20~l:23~t:183",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "183",
+        "uid": "s:20~l:23~t:183",
+        "location": "Syracuse",
+        "name": "Orange",
+        "abbreviation": "SYR",
+        "displayName": "Syracuse Orange",
+        "shortDisplayName": "Syracuse",
+        "color": "f76900",
+        "alternateColor": "000e54",
+        "isActive": true,
+        "venue": {
+         "id": "1830"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
+        "conferenceId": "1"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 0
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 1,
+      "type": {
+       "id": "22",
+       "name": "STATUS_END_PERIOD",
+       "state": "in",
+       "completed": false,
+       "description": "End of Period",
+       "detail": "End of 1st Quarter",
+       "shortDetail": "End of 1st"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ACCN"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T19:30Z",
+     "broadcast": "ACCN",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ACCN"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800015/syracuse-nc-state",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 1,
+    "type": {
+     "id": "22",
+     "name": "STATUS_END_PERIOD",
+     "state": "in",
+     "completed": false,
+     "description": "End of Period",
+     "detail": "End of 1st Quarter",
+     "shortDetail": "End of 1st"
+    }
+   }
+  },
+  {
+   "id": "401800016",
+   "uid": "s:20~l:23~e:401800016~c:401800016",
+   "date": "2026-09-26T19:30Z",
+   "name": "Navy Midshipmen at Temple Owls",
+   "shortName": "NAVY @ TEM",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800016",
+     "uid": "s:20~l:23~e:401800016~c:401800016",
+     "date": "2026-09-26T19:30Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000169",
+      "fullName": "Lincoln Financial Field",
+      "address": {
+       "city": "Philadelphia",
+       "state": "PA",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "218",
+       "uid": "s:20~l:23~t:218",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "218",
+        "uid": "s:20~l:23~t:218",
+        "location": "Temple",
+        "name": "Owls",
+        "abbreviation": "TEM",
+        "displayName": "Temple Owls",
+        "shortDisplayName": "Temple",
+        "color": "9d2235",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "2180"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/218.png",
+        "conferenceId": "151"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "1-2"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-1"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 0
+        },
+        {
+         "value": 0
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "2426",
+       "uid": "s:20~l:23~t:2426",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "2426",
+        "uid": "s:20~l:23~t:2426",
+        "location": "Navy",
+        "name": "Midshipmen",
+        "abbreviation": "NAVY",
+        "displayName": "Navy Midshipmen",
+        "shortDisplayName": "Navy",
+        "color": "00205b",
+        "alternateColor": "c5b783",
+        "isActive": true,
+        "venue": {
+         "id": "24260"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2426.png",
+        "conferenceId": "151"
+       },
+       "score": "14",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "1-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 7
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "9:12",
+      "period": 2,
+      "type": {
+       "id": "2",
+       "name": "STATUS_IN_PROGRESS",
+       "state": "in",
+       "completed": false,
+       "description": "In Progress",
+       "detail": "9:12 - 2nd Quarter",
+       "shortDetail": "9:12 - 2nd"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPNU"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T19:30Z",
+     "broadcast": "ESPNU",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPNU"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "situation": {
+      "down": 3,
+      "yardLine": 47,
+      "distance": 2,
+      "downDistanceText": "3rd & 2 at TEM 47",
+      "shortDownDistanceText": "3rd & 2",
+      "possessionText": "TEM 47",
+      "isRedZone": false,
+      "homeTimeouts": 3,
+      "awayTimeouts": 2,
+      "possession": "2426"
+     }
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800016/navy-temple",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "9:12",
+    "period": 2,
+    "type": {
+     "id": "2",
+     "name": "STATUS_IN_PROGRESS",
+     "state": "in",
+     "completed": false,
+     "description": "In Progress",
+     "detail": "9:12 - 2nd Quarter",
+     "shortDetail": "9:12 - 2nd"
+    }
+   }
+  },
+  {
+   "id": "401800017",
+   "uid": "s:20~l:23~e:401800017~c:401800017",
+   "date": "2026-09-26T19:30Z",
+   "name": "App State Mountaineers at Coastal Carolina Chanticleers",
+   "shortName": "APP @ CCU",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800017",
+     "uid": "s:20~l:23~e:401800017~c:401800017",
+     "date": "2026-09-26T19:30Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000179",
+      "fullName": "Brooks Stadium",
+      "address": {
+       "city": "Conway",
+       "state": "SC",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "324",
+       "uid": "s:20~l:23~t:324",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "324",
+        "uid": "s:20~l:23~t:324",
+        "location": "Coastal Carolina",
+        "name": "Chanticleers",
+        "abbreviation": "CCU",
+        "displayName": "Coastal Carolina Chanticleers",
+        "shortDisplayName": "Coastal Carolina",
+        "color": "006f71",
+        "alternateColor": "a27752",
+        "isActive": true,
+        "venue": {
+         "id": "3240"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/324.png",
+        "conferenceId": "37"
+       },
+       "score": "21",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 7
+        },
+        {
+         "value": 14
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "2026",
+       "uid": "s:20~l:23~t:2026",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "2026",
+        "uid": "s:20~l:23~t:2026",
+        "location": "App State",
+        "name": "Mountaineers",
+        "abbreviation": "APP",
+        "displayName": "App State Mountaineers",
+        "shortDisplayName": "App State",
+        "color": "222222",
+        "alternateColor": "ffcc00",
+        "isActive": true,
+        "venue": {
+         "id": "20260"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2026.png",
+        "conferenceId": "37"
+       },
+       "score": "21",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 14
+        },
+        {
+         "value": 7
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "1:03",
+      "period": 2,
+      "type": {
+       "id": "2",
+       "name": "STATUS_IN_PROGRESS",
+       "state": "in",
+       "completed": false,
+       "description": "In Progress",
+       "detail": "1:03 - 2nd Quarter",
+       "shortDetail": "1:03 - 2nd"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN+"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T19:30Z",
+     "broadcast": "ESPN+",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN+"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "situation": {
+      "down": 1,
+      "yardLine": 35,
+      "distance": 10,
+      "downDistanceText": "1st & 10 at APP 35",
+      "shortDownDistanceText": "1st & 10",
+      "possessionText": "APP 35",
+      "isRedZone": false,
+      "homeTimeouts": 3,
+      "awayTimeouts": 2,
+      "possession": "324"
+     }
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800017/app-state-coastal-carolina",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "1:03",
+    "period": 2,
+    "type": {
+     "id": "2",
+     "name": "STATUS_IN_PROGRESS",
+     "state": "in",
+     "completed": false,
+     "description": "In Progress",
+     "detail": "1:03 - 2nd Quarter",
+     "shortDetail": "1:03 - 2nd"
+    }
+   }
+  },
+  {
+   "id": "401800018",
+   "uid": "s:20~l:23~e:401800018~c:401800018",
+   "date": "2026-09-26T20:00Z",
+   "name": "Miami Hurricanes at Florida State Seminoles",
+   "shortName": "MIA @ FSU",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800018",
+     "uid": "s:20~l:23~e:401800018~c:401800018",
+     "date": "2026-09-26T20:00Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000189",
+      "fullName": "Doak Campbell Stadium",
+      "address": {
+       "city": "Tallahassee",
+       "state": "FL",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "52",
+       "uid": "s:20~l:23~t:52",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "52",
+        "uid": "s:20~l:23~t:52",
+        "location": "Florida State",
+        "name": "Seminoles",
+        "abbreviation": "FSU",
+        "displayName": "Florida State Seminoles",
+        "shortDisplayName": "Florida State",
+        "color": "782f40",
+        "alternateColor": "ceb888",
+        "isActive": true,
+        "venue": {
+         "id": "520"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+        "conferenceId": "1"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 0
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "2390",
+       "uid": "s:20~l:23~t:2390",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "2390",
+        "uid": "s:20~l:23~t:2390",
+        "location": "Miami",
+        "name": "Hurricanes",
+        "abbreviation": "MIA",
+        "displayName": "Miami Hurricanes",
+        "shortDisplayName": "Miami",
+        "color": "005030",
+        "alternateColor": "f47321",
+        "isActive": true,
+        "venue": {
+         "id": "23900"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+        "conferenceId": "1"
+       },
+       "score": "3",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "linescores": [
+        {
+         "value": 3
+        }
+       ],
+       "curatedRank": {
+        "current": 9
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "3:45",
+      "period": 1,
+      "type": {
+       "id": "2",
+       "name": "STATUS_IN_PROGRESS",
+       "state": "in",
+       "completed": false,
+       "description": "In Progress",
+       "detail": "3:45 - 1st Quarter",
+       "shortDetail": "3:45 - 1st"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T20:00Z",
+     "broadcast": "ESPN",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "situation": {
+      "down": 3,
+      "yardLine": 28,
+      "distance": 7,
+      "downDistanceText": "3rd & 7 at FSU 28",
+      "shortDownDistanceText": "3rd & 7",
+      "possessionText": "FSU 28",
+      "isRedZone": false,
+      "homeTimeouts": 3,
+      "awayTimeouts": 2,
+      "possession": "52"
+     }
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800018/miami-florida-state",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "3:45",
+    "period": 1,
+    "type": {
+     "id": "2",
+     "name": "STATUS_IN_PROGRESS",
+     "state": "in",
+     "completed": false,
+     "description": "In Progress",
+     "detail": "3:45 - 1st Quarter",
+     "shortDetail": "3:45 - 1st"
+    }
+   }
+  },
+  {
+   "id": "401800019",
+   "uid": "s:20~l:23~e:401800019~c:401800019",
+   "date": "2026-09-26T23:30Z",
+   "name": "Ole Miss Rebels at Texas Longhorns",
+   "shortName": "MISS @ TEX",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800019",
+     "uid": "s:20~l:23~e:401800019~c:401800019",
+     "date": "2026-09-26T23:30Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000199",
+      "fullName": "Darrell K Royal-Texas Memorial Stadium",
+      "address": {
+       "city": "Austin",
+       "state": "TX",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "251",
+       "uid": "s:20~l:23~t:251",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "251",
+        "uid": "s:20~l:23~t:251",
+        "location": "Texas",
+        "name": "Longhorns",
+        "abbreviation": "TEX",
+        "displayName": "Texas Longhorns",
+        "shortDisplayName": "Texas",
+        "color": "bf5700",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "2510"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+        "conferenceId": "8"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 1
+       }
+      },
+      {
+       "id": "145",
+       "uid": "s:20~l:23~t:145",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "145",
+        "uid": "s:20~l:23~t:145",
+        "location": "Ole Miss",
+        "name": "Rebels",
+        "abbreviation": "MISS",
+        "displayName": "Ole Miss Rebels",
+        "shortDisplayName": "Ole Miss",
+        "color": "13294b",
+        "alternateColor": "ce1126",
+        "isActive": true,
+        "venue": {
+         "id": "1450"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
+        "conferenceId": "8"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 11
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "Sat, September 26th at 7:30 PM EDT",
+       "shortDetail": "9/26 - 7:30 PM EDT"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ABC"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T23:30Z",
+     "broadcast": "ABC",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ABC"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "odds": [
+      {
+       "provider": {
+        "id": "58",
+        "name": "ESPN BET",
+        "priority": 1
+       },
+       "details": "TEX -7.5",
+       "overUnder": 55.5,
+       "spread": 0
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800019/ole-miss-texas",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 0,
+    "type": {
+     "id": "1",
+     "name": "STATUS_SCHEDULED",
+     "state": "pre",
+     "completed": false,
+     "description": "Scheduled",
+     "detail": "Sat, September 26th at 7:30 PM EDT",
+     "shortDetail": "9/26 - 7:30 PM EDT"
+    }
+   }
+  },
+  {
+   "id": "401800020",
+   "uid": "s:20~l:23~e:401800020~c:401800020",
+   "date": "2026-09-26T23:30Z",
+   "name": "Oregon Ducks at Washington Huskies",
+   "shortName": "ORE @ WASH",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800020",
+     "uid": "s:20~l:23~e:401800020~c:401800020",
+     "date": "2026-09-26T23:30Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000209",
+      "fullName": "Husky Stadium",
+      "address": {
+       "city": "Seattle",
+       "state": "WA",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "264",
+       "uid": "s:20~l:23~t:264",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "264",
+        "uid": "s:20~l:23~t:264",
+        "location": "Washington",
+        "name": "Huskies",
+        "abbreviation": "WASH",
+        "displayName": "Washington Huskies",
+        "shortDisplayName": "Washington",
+        "color": "33006f",
+        "alternateColor": "e8d3a2",
+        "isActive": true,
+        "venue": {
+         "id": "2640"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+        "conferenceId": "5"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "2483",
+       "uid": "s:20~l:23~t:2483",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "2483",
+        "uid": "s:20~l:23~t:2483",
+        "location": "Oregon",
+        "name": "Ducks",
+        "abbreviation": "ORE",
+        "displayName": "Oregon Ducks",
+        "shortDisplayName": "Oregon",
+        "color": "154733",
+        "alternateColor": "fee123",
+        "isActive": true,
+        "venue": {
+         "id": "24830"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+        "conferenceId": "5"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 4
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "Sat, September 26th at 7:30 PM EDT",
+       "shortDetail": "9/26 - 7:30 PM EDT"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "NBC"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T23:30Z",
+     "broadcast": "NBC",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "NBC"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "odds": [
+      {
+       "provider": {
+        "id": "58",
+        "name": "ESPN BET",
+        "priority": 1
+       },
+       "details": "ORE -10.5",
+       "overUnder": 52.5,
+       "spread": 0
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800020/oregon-washington",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 0,
+    "type": {
+     "id": "1",
+     "name": "STATUS_SCHEDULED",
+     "state": "pre",
+     "completed": false,
+     "description": "Scheduled",
+     "detail": "Sat, September 26th at 7:30 PM EDT",
+     "shortDetail": "9/26 - 7:30 PM EDT"
+    }
+   }
+  },
+  {
+   "id": "401800021",
+   "uid": "s:20~l:23~e:401800021~c:401800021",
+   "date": "2026-09-26T23:00Z",
+   "name": "USC Trojans at Illinois Fighting Illini",
+   "shortName": "USC @ ILL",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800021",
+     "uid": "s:20~l:23~e:401800021~c:401800021",
+     "date": "2026-09-26T23:00Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000219",
+      "fullName": "Memorial Stadium",
+      "address": {
+       "city": "Champaign",
+       "state": "IL",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "356",
+       "uid": "s:20~l:23~t:356",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "356",
+        "uid": "s:20~l:23~t:356",
+        "location": "Illinois",
+        "name": "Fighting Illini",
+        "abbreviation": "ILL",
+        "displayName": "Illinois Fighting Illini",
+        "shortDisplayName": "Illinois",
+        "color": "e84a27",
+        "alternateColor": "13294b",
+        "isActive": true,
+        "venue": {
+         "id": "3560"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+        "conferenceId": "5"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "30",
+       "uid": "s:20~l:23~t:30",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "30",
+        "uid": "s:20~l:23~t:30",
+        "location": "USC",
+        "name": "Trojans",
+        "abbreviation": "USC",
+        "displayName": "USC Trojans",
+        "shortDisplayName": "USC",
+        "color": "990000",
+        "alternateColor": "ffcc00",
+        "isActive": true,
+        "venue": {
+         "id": "300"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+        "conferenceId": "5"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 16
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "Sat, September 26th at 7:00 PM EDT",
+       "shortDetail": "9/26 - 7:00 PM EDT"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "BTN"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T23:00Z",
+     "broadcast": "BTN",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "BTN"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "odds": [
+      {
+       "provider": {
+        "id": "58",
+        "name": "ESPN BET",
+        "priority": 1
+       },
+       "details": "USC -3",
+       "overUnder": 58.5,
+       "spread": 0
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800021/usc-illinois",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 0,
+    "type": {
+     "id": "1",
+     "name": "STATUS_SCHEDULED",
+     "state": "pre",
+     "completed": false,
+     "description": "Scheduled",
+     "detail": "Sat, September 26th at 7:00 PM EDT",
+     "shortDetail": "9/26 - 7:00 PM EDT"
+    }
+   }
+  },
+  {
+   "id": "401800022",
+   "uid": "s:20~l:23~e:401800022~c:401800022",
+   "date": "2026-09-26T23:30Z",
+   "name": "Stanford Cardinal at Notre Dame Fighting Irish",
+   "shortName": "STAN @ ND",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800022",
+     "uid": "s:20~l:23~e:401800022~c:401800022",
+     "date": "2026-09-26T23:30Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000229",
+      "fullName": "Notre Dame Stadium",
+      "address": {
+       "city": "Notre Dame",
+       "state": "IN",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "87",
+       "uid": "s:20~l:23~t:87",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "87",
+        "uid": "s:20~l:23~t:87",
+        "location": "Notre Dame",
+        "name": "Fighting Irish",
+        "abbreviation": "ND",
+        "displayName": "Notre Dame Fighting Irish",
+        "shortDisplayName": "Notre Dame",
+        "color": "0c2340",
+        "alternateColor": "c99700",
+        "isActive": true,
+        "venue": {
+         "id": "870"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
+        "conferenceId": "18"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 6
+       }
+      },
+      {
+       "id": "24",
+       "uid": "s:20~l:23~t:24",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "24",
+        "uid": "s:20~l:23~t:24",
+        "location": "Stanford",
+        "name": "Cardinal",
+        "abbreviation": "STAN",
+        "displayName": "Stanford Cardinal",
+        "shortDisplayName": "Stanford",
+        "color": "8c1515",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "240"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+        "conferenceId": "1"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "1-2"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [
+      {
+       "type": "event",
+       "headline": "Legends Trophy"
+      }
+     ],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "Sat, September 26th at 7:30 PM EDT",
+       "shortDetail": "9/26 - 7:30 PM EDT"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "Peacock"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T23:30Z",
+     "broadcast": "Peacock",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "Peacock"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "odds": [
+      {
+       "provider": {
+        "id": "58",
+        "name": "ESPN BET",
+        "priority": 1
+       },
+       "details": "ND -24.5",
+       "overUnder": 48.5,
+       "spread": 0
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800022/stanford-notre-dame",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 0,
+    "type": {
+     "id": "1",
+     "name": "STATUS_SCHEDULED",
+     "state": "pre",
+     "completed": false,
+     "description": "Scheduled",
+     "detail": "Sat, September 26th at 7:30 PM EDT",
+     "shortDetail": "9/26 - 7:30 PM EDT"
+    }
+   }
+  },
+  {
+   "id": "401800023",
+   "uid": "s:20~l:23~e:401800023~c:401800023",
+   "date": "2026-09-27T00:00Z",
+   "name": "Kansas Jayhawks at Texas Tech Red Raiders",
+   "shortName": "KU @ TTU",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800023",
+     "uid": "s:20~l:23~e:401800023~c:401800023",
+     "date": "2026-09-27T00:00Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000239",
+      "fullName": "Jones AT&T Stadium",
+      "address": {
+       "city": "Lubbock",
+       "state": "TX",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "2641",
+       "uid": "s:20~l:23~t:2641",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "2641",
+        "uid": "s:20~l:23~t:2641",
+        "location": "Texas Tech",
+        "name": "Red Raiders",
+        "abbreviation": "TTU",
+        "displayName": "Texas Tech Red Raiders",
+        "shortDisplayName": "Texas Tech",
+        "color": "cc0000",
+        "alternateColor": "000000",
+        "isActive": true,
+        "venue": {
+         "id": "26410"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+        "conferenceId": "4"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 18
+       }
+      },
+      {
+       "id": "2305",
+       "uid": "s:20~l:23~t:2305",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "2305",
+        "uid": "s:20~l:23~t:2305",
+        "location": "Kansas",
+        "name": "Jayhawks",
+        "abbreviation": "KU",
+        "displayName": "Kansas Jayhawks",
+        "shortDisplayName": "Kansas",
+        "color": "0051ba",
+        "alternateColor": "e8000d",
+        "isActive": true,
+        "venue": {
+         "id": "23050"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+        "conferenceId": "4"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "Sat, September 26th at 8:00 PM EDT",
+       "shortDetail": "9/26 - 8:00 PM EDT"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN2"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-27T00:00Z",
+     "broadcast": "ESPN2",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN2"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "odds": [
+      {
+       "provider": {
+        "id": "58",
+        "name": "ESPN BET",
+        "priority": 1
+       },
+       "details": "TTU -6",
+       "overUnder": 60.5,
+       "spread": 0
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800023/kansas-texas-tech",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 0,
+    "type": {
+     "id": "1",
+     "name": "STATUS_SCHEDULED",
+     "state": "pre",
+     "completed": false,
+     "description": "Scheduled",
+     "detail": "Sat, September 26th at 8:00 PM EDT",
+     "shortDetail": "9/26 - 8:00 PM EDT"
+    }
+   }
+  },
+  {
+   "id": "401800024",
+   "uid": "s:20~l:23~e:401800024~c:401800024",
+   "date": "2026-09-26T23:30Z",
+   "name": "LSU Tigers at Missouri Tigers",
+   "shortName": "LSU @ MIZ",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800024",
+     "uid": "s:20~l:23~e:401800024~c:401800024",
+     "date": "2026-09-26T23:30Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000249",
+      "fullName": "Faurot Field",
+      "address": {
+       "city": "Columbia",
+       "state": "MO",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "142",
+       "uid": "s:20~l:23~t:142",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "142",
+        "uid": "s:20~l:23~t:142",
+        "location": "Missouri",
+        "name": "Tigers",
+        "abbreviation": "MIZ",
+        "displayName": "Missouri Tigers",
+        "shortDisplayName": "Missouri",
+        "color": "f1b82d",
+        "alternateColor": "000000",
+        "isActive": true,
+        "venue": {
+         "id": "1420"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+        "conferenceId": "8"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 19
+       }
+      },
+      {
+       "id": "99",
+       "uid": "s:20~l:23~t:99",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "99",
+        "uid": "s:20~l:23~t:99",
+        "location": "LSU",
+        "name": "Tigers",
+        "abbreviation": "LSU",
+        "displayName": "LSU Tigers",
+        "shortDisplayName": "LSU",
+        "color": "461d7c",
+        "alternateColor": "fdd023",
+        "isActive": true,
+        "venue": {
+         "id": "990"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+        "conferenceId": "8"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "1-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 7
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "Sat, September 26th at 7:30 PM EDT",
+       "shortDetail": "9/26 - 7:30 PM EDT"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "SECN"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T23:30Z",
+     "broadcast": "SECN",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "SECN"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "odds": [
+      {
+       "provider": {
+        "id": "58",
+        "name": "ESPN BET",
+        "priority": 1
+       },
+       "details": "LSU -4.5",
+       "overUnder": 49.5,
+       "spread": 0
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800024/lsu-missouri",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 0,
+    "type": {
+     "id": "1",
+     "name": "STATUS_SCHEDULED",
+     "state": "pre",
+     "completed": false,
+     "description": "Scheduled",
+     "detail": "Sat, September 26th at 7:30 PM EDT",
+     "shortDetail": "9/26 - 7:30 PM EDT"
+    }
+   }
+  },
+  {
+   "id": "401800025",
+   "uid": "s:20~l:23~e:401800025~c:401800025",
+   "date": "2026-09-27T02:15Z",
+   "name": "BYU Cougars at Colorado Buffaloes",
+   "shortName": "BYU @ COLO",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800025",
+     "uid": "s:20~l:23~e:401800025~c:401800025",
+     "date": "2026-09-27T02:15Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000259",
+      "fullName": "Folsom Field",
+      "address": {
+       "city": "Boulder",
+       "state": "CO",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "38",
+       "uid": "s:20~l:23~t:38",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "38",
+        "uid": "s:20~l:23~t:38",
+        "location": "Colorado",
+        "name": "Buffaloes",
+        "abbreviation": "COLO",
+        "displayName": "Colorado Buffaloes",
+        "shortDisplayName": "Colorado",
+        "color": "000000",
+        "alternateColor": "cfb87c",
+        "isActive": true,
+        "venue": {
+         "id": "380"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+        "conferenceId": "4"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "1-2"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "252",
+       "uid": "s:20~l:23~t:252",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "252",
+        "uid": "s:20~l:23~t:252",
+        "location": "BYU",
+        "name": "Cougars",
+        "abbreviation": "BYU",
+        "displayName": "BYU Cougars",
+        "shortDisplayName": "BYU",
+        "color": "002e5d",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "2520"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+        "conferenceId": "4"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "3-0"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 22
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "Sat, September 26th at 10:15 PM EDT",
+       "shortDetail": "9/26 - 10:15 PM EDT"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-27T02:15Z",
+     "broadcast": "ESPN",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "odds": [
+      {
+       "provider": {
+        "id": "58",
+        "name": "ESPN BET",
+        "priority": 1
+       },
+       "details": "BYU -2.5",
+       "overUnder": 51,
+       "spread": 0
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800025/byu-colorado",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 0,
+    "type": {
+     "id": "1",
+     "name": "STATUS_SCHEDULED",
+     "state": "pre",
+     "completed": false,
+     "description": "Scheduled",
+     "detail": "Sat, September 26th at 10:15 PM EDT",
+     "shortDetail": "9/26 - 10:15 PM EDT"
+    }
+   }
+  },
+  {
+   "id": "401800026",
+   "uid": "s:20~l:23~e:401800026~c:401800026",
+   "date": "2026-09-27T02:30Z",
+   "name": "Hawai'i Rainbow Warriors at San José State Spartans",
+   "shortName": "HAW @ SJSU",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800026",
+     "uid": "s:20~l:23~e:401800026~c:401800026",
+     "date": "2026-09-27T02:30Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000269",
+      "fullName": "CEFCU Stadium",
+      "address": {
+       "city": "San Jose",
+       "state": "CA",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "23",
+       "uid": "s:20~l:23~t:23",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "23",
+        "uid": "s:20~l:23~t:23",
+        "location": "San José State",
+        "name": "Spartans",
+        "abbreviation": "SJSU",
+        "displayName": "San José State Spartans",
+        "shortDisplayName": "San José State",
+        "color": "0055a2",
+        "alternateColor": "e5a823",
+        "isActive": true,
+        "venue": {
+         "id": "230"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+        "conferenceId": "17"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "62",
+       "uid": "s:20~l:23~t:62",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "62",
+        "uid": "s:20~l:23~t:62",
+        "location": "Hawai'i",
+        "name": "Rainbow Warriors",
+        "abbreviation": "HAW",
+        "displayName": "Hawai'i Rainbow Warriors",
+        "shortDisplayName": "Hawai'i",
+        "color": "024731",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "620"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+        "conferenceId": "17"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-2"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "Sat, September 26th at 10:30 PM EDT",
+       "shortDetail": "9/26 - 10:30 PM EDT"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "CBSSN"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-27T02:30Z",
+     "broadcast": "CBSSN",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "CBSSN"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "odds": [
+      {
+       "provider": {
+        "id": "58",
+        "name": "ESPN BET",
+        "priority": 1
+       },
+       "details": "SJSU -6.5",
+       "overUnder": 57.5,
+       "spread": 0
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800026/hawai-i-san-jos-state",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 0,
+    "type": {
+     "id": "1",
+     "name": "STATUS_SCHEDULED",
+     "state": "pre",
+     "completed": false,
+     "description": "Scheduled",
+     "detail": "Sat, September 26th at 10:30 PM EDT",
+     "shortDetail": "9/26 - 10:30 PM EDT"
+    }
+   }
+  },
+  {
+   "id": "401800027",
+   "uid": "s:20~l:23~e:401800027~c:401800027",
+   "date": "2026-09-26T23:00Z",
+   "name": "Air Force Falcons at Utah State Aggies",
+   "shortName": "AF @ USU",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800027",
+     "uid": "s:20~l:23~e:401800027~c:401800027",
+     "date": "2026-09-26T23:00Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000279",
+      "fullName": "Maverik Stadium",
+      "address": {
+       "city": "Logan",
+       "state": "UT",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "328",
+       "uid": "s:20~l:23~t:328",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "328",
+        "uid": "s:20~l:23~t:328",
+        "location": "Utah State",
+        "name": "Aggies",
+        "abbreviation": "USU",
+        "displayName": "Utah State Aggies",
+        "shortDisplayName": "Utah State",
+        "color": "0f2439",
+        "alternateColor": "8a8d8f",
+        "isActive": true,
+        "venue": {
+         "id": "3280"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+        "conferenceId": "9"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "2005",
+       "uid": "s:20~l:23~t:2005",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "2005",
+        "uid": "s:20~l:23~t:2005",
+        "location": "Air Force",
+        "name": "Falcons",
+        "abbreviation": "AF",
+        "displayName": "Air Force Falcons",
+        "shortDisplayName": "Air Force",
+        "color": "003594",
+        "alternateColor": "8a8d8f",
+        "isActive": true,
+        "venue": {
+         "id": "20050"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+        "conferenceId": "17"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "Sat, September 26th at 7:00 PM EDT",
+       "shortDetail": "9/26 - 7:00 PM EDT"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "CW"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T23:00Z",
+     "broadcast": "CW",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "CW"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": [],
+     "odds": [
+      {
+       "provider": {
+        "id": "58",
+        "name": "ESPN BET",
+        "priority": 1
+       },
+       "details": "USU -1.5",
+       "overUnder": 45.5,
+       "spread": 0
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800027/air-force-utah-state",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 0,
+    "type": {
+     "id": "1",
+     "name": "STATUS_SCHEDULED",
+     "state": "pre",
+     "completed": false,
+     "description": "Scheduled",
+     "detail": "Sat, September 26th at 7:00 PM EDT",
+     "shortDetail": "9/26 - 7:00 PM EDT"
+    }
+   }
+  },
+  {
+   "id": "401800028",
+   "uid": "s:20~l:23~e:401800028~c:401800028",
+   "date": "2026-09-26T23:00Z",
+   "name": "Marshall Thundering Herd at Georgia Southern Eagles",
+   "shortName": "MRSH @ GASO",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800028",
+     "uid": "s:20~l:23~e:401800028~c:401800028",
+     "date": "2026-09-26T23:00Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000289",
+      "fullName": "Paulson Stadium",
+      "address": {
+       "city": "Statesboro",
+       "state": "GA",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "290",
+       "uid": "s:20~l:23~t:290",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "290",
+        "uid": "s:20~l:23~t:290",
+        "location": "Georgia Southern",
+        "name": "Eagles",
+        "abbreviation": "GASO",
+        "displayName": "Georgia Southern Eagles",
+        "shortDisplayName": "Georgia Southern",
+        "color": "041e42",
+        "alternateColor": "a3aaae",
+        "isActive": true,
+        "venue": {
+         "id": "2900"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
+        "conferenceId": "37"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "1-2"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "276",
+       "uid": "s:20~l:23~t:276",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "276",
+        "uid": "s:20~l:23~t:276",
+        "location": "Marshall",
+        "name": "Thundering Herd",
+        "abbreviation": "MRSH",
+        "displayName": "Marshall Thundering Herd",
+        "shortDisplayName": "Marshall",
+        "color": "00b140",
+        "alternateColor": "ffffff",
+        "isActive": true,
+        "venue": {
+         "id": "2760"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
+        "conferenceId": "37"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "Sat, September 26th at 7:00 PM EDT",
+       "shortDetail": "9/26 - 7:00 PM EDT"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN+"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T23:00Z",
+     "broadcast": "ESPN+",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN+"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800028/marshall-georgia-southern",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 0,
+    "type": {
+     "id": "1",
+     "name": "STATUS_SCHEDULED",
+     "state": "pre",
+     "completed": false,
+     "description": "Scheduled",
+     "detail": "Sat, September 26th at 7:00 PM EDT",
+     "shortDetail": "9/26 - 7:00 PM EDT"
+    }
+   }
+  },
+  {
+   "id": "401800029",
+   "uid": "s:20~l:23~e:401800029~c:401800029",
+   "date": "2026-09-26T07:00Z",
+   "name": "Sam Houston Bearkats at UTEP Miners",
+   "shortName": "SHSU @ UTEP",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800029",
+     "uid": "s:20~l:23~e:401800029~c:401800029",
+     "date": "2026-09-26T07:00Z",
+     "attendance": 0,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": false,
+     "neutralSite": false,
+     "conferenceCompetition": false,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000299",
+      "fullName": "Sun Bowl",
+      "address": {
+       "city": "El Paso",
+       "state": "TX",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "2638",
+       "uid": "s:20~l:23~t:2638",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "2638",
+        "uid": "s:20~l:23~t:2638",
+        "location": "UTEP",
+        "name": "Miners",
+        "abbreviation": "UTEP",
+        "displayName": "UTEP Miners",
+        "shortDisplayName": "UTEP",
+        "color": "ff8200",
+        "alternateColor": "041e42",
+        "isActive": true,
+        "venue": {
+         "id": "26380"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
+        "conferenceId": "17"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "1-2"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "2534",
+       "uid": "s:20~l:23~t:2534",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "2534",
+        "uid": "s:20~l:23~t:2534",
+        "location": "Sam Houston",
+        "name": "Bearkats",
+        "abbreviation": "SHSU",
+        "displayName": "Sam Houston Bearkats",
+        "shortDisplayName": "Sam Houston",
+        "color": "f47b20",
+        "alternateColor": "002d62",
+        "isActive": true,
+        "venue": {
+         "id": "25340"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png",
+        "conferenceId": "12"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "1-2"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        }
+       ],
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "TBD",
+       "shortDetail": "TBD"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN+"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T07:00Z",
+     "broadcast": "ESPN+",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN+"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800029/sam-houston-utep",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 0,
+    "type": {
+     "id": "1",
+     "name": "STATUS_SCHEDULED",
+     "state": "pre",
+     "completed": false,
+     "description": "Scheduled",
+     "detail": "TBD",
+     "shortDetail": "TBD"
+    }
+   }
+  },
+  {
+   "id": "401800030",
+   "uid": "s:20~l:23~e:401800030~c:401800030",
+   "date": "2026-09-26T19:30Z",
+   "name": "South Alabama Jaguars at Troy Trojans",
+   "shortName": "USA @ TROY",
+   "season": {
+    "year": 2026,
+    "type": 2,
+    "slug": "regular-season"
+   },
+   "week": {
+    "number": 4
+   },
+   "competitions": [
+    {
+     "id": "401800030",
+     "uid": "s:20~l:23~e:401800030~c:401800030",
+     "date": "2026-09-26T19:30Z",
+     "attendance": 61234,
+     "type": {
+      "id": "1",
+      "abbreviation": "STD"
+     },
+     "timeValid": true,
+     "neutralSite": false,
+     "conferenceCompetition": true,
+     "playByPlayAvailable": true,
+     "recent": false,
+     "venue": {
+      "id": "4018000309",
+      "fullName": "Veterans Memorial Stadium",
+      "address": {
+       "city": "Troy",
+       "state": "AL",
+       "country": "USA"
+      },
+      "indoor": false
+     },
+     "competitors": [
+      {
+       "id": "2653",
+       "uid": "s:20~l:23~t:2653",
+       "type": "team",
+       "order": 0,
+       "homeAway": "home",
+       "team": {
+        "id": "2653",
+        "uid": "s:20~l:23~t:2653",
+        "location": "Troy",
+        "name": "Trojans",
+        "abbreviation": "TROY",
+        "displayName": "Troy Trojans",
+        "shortDisplayName": "Troy",
+        "color": "8a2432",
+        "alternateColor": "b1b3b3",
+        "isActive": true,
+        "venue": {
+         "id": "26530"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png",
+        "conferenceId": "37"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "1-2"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "linescores": [],
+       "winner": false,
+       "curatedRank": {
+        "current": 99
+       }
+      },
+      {
+       "id": "6",
+       "uid": "s:20~l:23~t:6",
+       "type": "team",
+       "order": 1,
+       "homeAway": "away",
+       "team": {
+        "id": "6",
+        "uid": "s:20~l:23~t:6",
+        "location": "South Alabama",
+        "name": "Jaguars",
+        "abbreviation": "USA",
+        "displayName": "South Alabama Jaguars",
+        "shortDisplayName": "South Alabama",
+        "color": "00205b",
+        "alternateColor": "bf0d3e",
+        "isActive": true,
+        "venue": {
+         "id": "60"
+        },
+        "links": [],
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/6.png",
+        "conferenceId": "37"
+       },
+       "score": "0",
+       "statistics": [],
+       "records": [
+        {
+         "name": "overall",
+         "abbreviation": "Game",
+         "type": "total",
+         "summary": "2-1"
+        },
+        {
+         "name": "Home",
+         "type": "homerecord",
+         "summary": "2-0"
+        },
+        {
+         "name": "Away",
+         "type": "awayrecord",
+         "summary": "1-0"
+        },
+        {
+         "name": "vs. Conf.",
+         "abbreviation": "CONF",
+         "type": "vsconf",
+         "summary": "0-0"
+        }
+       ],
+       "linescores": [],
+       "winner": false,
+       "curatedRank": {
+        "current": 99
+       }
+      }
+     ],
+     "notes": [],
+     "status": {
+      "clock": 0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "6",
+       "name": "STATUS_POSTPONED",
+       "state": "post",
+       "completed": false,
+       "description": "Postponed",
+       "detail": "Postponed",
+       "shortDetail": "Postponed"
+      }
+     },
+     "broadcasts": [
+      {
+       "market": "national",
+       "names": [
+        "ESPN+"
+       ]
+      }
+     ],
+     "format": {
+      "regulation": {
+       "periods": 4
+      }
+     },
+     "startDate": "2026-09-26T19:30Z",
+     "broadcast": "ESPN+",
+     "geoBroadcasts": [
+      {
+       "type": {
+        "id": "1",
+        "shortName": "TV"
+       },
+       "market": {
+        "id": "1",
+        "type": "National"
+       },
+       "media": {
+        "shortName": "ESPN+"
+       },
+       "lang": "en",
+       "region": "us"
+      }
+     ],
+     "highlights": []
+    }
+   ],
+   "links": [
+    {
+     "language": "en-US",
+     "rel": [
+      "summary",
+      "desktop",
+      "event"
+     ],
+     "href": "https://www.espn.com/college-football/game/_/gameId/401800030/south-alabama-troy",
+     "text": "Gamecast",
+     "shortText": "Gamecast",
+     "isExternal": false,
+     "isPremium": false
+    }
+   ],
+   "status": {
+    "clock": 0,
+    "displayClock": "0:00",
+    "period": 0,
+    "type": {
+     "id": "6",
+     "name": "STATUS_POSTPONED",
+     "state": "post",
+     "completed": false,
+     "description": "Postponed",
+     "detail": "Postponed",
+     "shortDetail": "Postponed"
+    }
+   }
+  }
+ ]
+}
